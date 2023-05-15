@@ -1,0 +1,31 @@
+{
+  "name": "psyche",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "cloudfunction-config": {
+    "memorySize": 256,
+    "path": "/http/psyche",
+    "timeout": 10,
+    "runtime": "Nodejs8",
+    "triggers": [
+      {
+        "config": "18 1 * * * * *",
+        "name": "refund",
+        "type": "timer"
+      }
+    ]
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "formidable": "^2.1.1",
+    "md5-node": "^1.0.1",
+    "mongodb": "^5.3.0"
+  }
+}

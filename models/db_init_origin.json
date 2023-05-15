@@ -1,0 +1,4091 @@
+{
+	"opendb-admin-menus": {
+		"data": [{
+			"enable": true,
+			"icon": "uni-icons-paperclip",
+			"menu_id": "tian-page-component",
+			"name": "组件管理",
+			"parent_id": "tian-page-management",
+			"permission": [
+				"tian-page-component"
+			],
+			"sort": 100,
+			"url": "/pages/tian-page-components/list"
+		}]
+	},
+	"opendb-app-list": {
+		"data": [{
+			"appid": "__UNI__9E9D6A0",
+			"create_date": 1617498369802,
+			"description": "电商管理系统",
+			"name": "天天商城"
+		}]
+	},
+	"opendb-app-publish": {
+		"data": []
+	},
+	"opendb-app-versions": {
+		"data": []
+	},
+	"opendb-banner": {
+		"data": [{
+			"bannerfile": {
+				"extname": "jpg",
+				"fileType": "image",
+				"image": {
+					"height": 10,
+					"width": 10
+				},
+				"name": "filename.jpg",
+				"path": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3fbab731-e993-47e6-882f-a74e444709a3/5e655a22-9940-47a4-95a8-e077b81ae34a.jpg",
+				"size": 0,
+				"url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3fbab731-e993-47e6-882f-a74e444709a3/5e655a22-9940-47a4-95a8-e077b81ae34a.jpg"
+			},
+			"category_id": "619d50578595b40001c5896b0",
+			"description": "广告好运连连",
+			"open_url": "",
+			"sort": 1,
+			"status": true,
+			"title": "好运连连2"
+		}]
+	},
+	"opendb-banner-category": {
+		"data": [{
+			"create_date": 1622107994457,
+			"name": "首页选项卡二"
+		}]
+	},
+	"opendb-categories": {
+		"data": []
+	},
+	"opendb-city-china": {
+		"data": [{
+			"code": "110105",
+			"first_letter": "C",
+			"name": "朝阳区",
+			"parent_code": "110100",
+			"pinyin": "chaoyangqu",
+			"type": 2,
+			"zip_code": "100020"
+		}]
+	},
+	"opendb-mall-cart": {
+		"data": []
+	},
+	"opendb-mall-categories": {
+		"data": [{
+			"create_date": 1636611219711,
+			"description": "",
+			"icon": "",
+			"id": 10214,
+			"is_hot_show": false,
+			"is_index_show": false,
+			"level": 0,
+			"name": "箱包皮具",
+			"parentId": 0,
+			"parent_id": "",
+			"shop_id": "60dd9001e22fbe0001777c960",
+			"sort": 100,
+			"source": 2,
+			"status": false,
+			"thirdId": 17329
+		}]
+	},
+	"opendb-mall-comments": {
+		"data": []
+	},
+	"opendb-mall-express": {
+		"data": []
+	},
+	"opendb-mall-goods": {
+		"data": [{
+			"add_date": 1578542212000,
+			"agreement_price": 19900,
+			"category_id": [
+				"618cc469f4f23b0001767fa8",
+				"618cc46aa1eb050001f742da"
+			],
+			"comment_count": 0,
+			"cost_price": 19900,
+			"goods_banner_imgs": [
+				"https://img13.360buyimg.com/n12/jfs/t16015/143/487739149/211259/bba2b1ab/5a322253Naf8b9a06.jpg",
+				"https://img13.360buyimg.com/n12/jfs/t15601/270/461530239/262411/17a2144/5a322257Ndd77c606.jpg",
+				"https://img13.360buyimg.com/n12/jfs/t15328/330/600453957/273995/1dce801b/5a32225bN827a21e8.jpg",
+				"https://img13.360buyimg.com/n12/jfs/t15292/197/816851269/333580/b328d174/5a3a1a7bNa134db84.jpg",
+				"https://img13.360buyimg.com/n12/jfs/t15223/217/800674207/287624/fbd031a0/5a3a1a7cNbe6ed994.jpg"
+			],
+			"goods_desc": [
+				"https://img30.360buyimg.com/popWaterMark/jfs/t14506/129/834341973/260974/9d030177/5a3a6641N58680a3e.jpg",
+				"https://img30.360buyimg.com/popWaterMark/jfs/t13846/267/2234149386/123923/2156483d/5a3a6641Nce661a47.jpg",
+				"https://img30.360buyimg.com/popWaterMark/jfs/t15955/57/715400229/77008/1da3b6fe/5a3a6641N1008435f.jpg",
+				"https://img30.360buyimg.com/popWaterMark/jfs/t15238/154/820074780/129555/664cdfe8/5a3a6641N9d645b0c.jpg",
+				"https://img30.360buyimg.com/popWaterMark/jfs/t15901/56/667240843/154171/f7bc756b/5a3a6641Nb0dbc84f.jpg",
+				"https://img30.360buyimg.com/popWaterMark/jfs/t15595/328/719968346/89375/d1631e16/5a3a6641N9be8619b.jpg",
+				"https://img30.360buyimg.com/popWaterMark/jfs/t15799/274/695751294/164445/b5d9895a/5a3a6642Ndcce03f2.jpg",
+				"https://img30.360buyimg.com/popWaterMark/jfs/t13954/121/2219936019/157508/617ca9b8/5a3a6642N3552a99e.jpg",
+				"https://img30.360buyimg.com/popWaterMark/jfs/t14137/297/2324115153/82598/978f4824/5a3a663cN11629df9.jpg",
+				"https://img30.360buyimg.com/popWaterMark/jfs/t12439/307/2284457100/71745/5257d373/5a3a6642N0447cb47.jpg",
+				"https://img30.360buyimg.com/popWaterMark/jfs/t12220/342/2301273245/150192/1c55b750/5a3a6642Nf7776c86.jpg",
+				"https://img30.360buyimg.com/popWaterMark/jfs/t13387/53/1094178977/99945/c9be6028/5a3a6642N3ad46231.jpg",
+				"https://img30.360buyimg.com/popWaterMark/jfs/t14191/360/2299359208/205019/5c725e86/5a3a6642Ne9e76930.jpg",
+				"https://img30.360buyimg.com/popWaterMark/jfs/t14572/73/582672753/155511/87957632/5a3a663bNcbedb18d.jpg",
+				"https://img30.360buyimg.com/popWaterMark/jfs/t12415/355/2280070235/286095/44925eef/5a3a6642N9b81f4fb.jpg",
+				"https://img30.360buyimg.com/popWaterMark/jfs/t16078/140/685593698/360321/81a61761/5a3a6630Nd0a9ce8f.jpg",
+				"https://img30.360buyimg.com/popWaterMark/jfs/t15832/268/710164178/125861/206bcb79/5a3a6635Nc398c69e.jpg",
+				"https://img30.360buyimg.com/popWaterMark/jfs/t12823/46/2173668467/184246/179f7a50/5a3a6639N3c8f6545.jpg",
+				"https://img30.360buyimg.com/popWaterMark/jfs/t14719/120/854898821/81104/6f8ced70/5a3a6643Ne40ad5bd.jpg"
+			],
+			"goods_sn": "238830",
+			"goods_thumb": "https://img13.360buyimg.com/n12/jfs/t16015/143/487739149/211259/bba2b1ab/5a322253Naf8b9a06.jpg",
+			"id": 238830,
+			"is_alone_sale": true,
+			"is_best": false,
+			"is_free_shipping": 1,
+			"is_hot": false,
+			"is_new": false,
+			"is_on_sale": true,
+			"is_real": true,
+			"last_modify_date": 1636512173000,
+			"market_price": 199900,
+			"month_sell_count": 0,
+			"name": "JDX (x) JONATHAN RISS (x) 妖猫传 京东跨界联名款 海浪刺绣 中式开衫夹克 男女同款 牛仔潮夹克 蓝色 XL",
+			"price": 119900,
+			"remain_count": 9999,
+			"seller_note": "",
+			"shop_id": "60dd9001e22fbe0001777c960",
+			"sku_name": [
+				"颜色",
+				"尺码"
+			],
+			"third_brand_name": "JDX",
+			"third_category_name": "礼品,奢侈品,服饰",
+			"total_sell_count": 0,
+			"unit": "套"
+		}]
+	},
+	"opendb-mall-goods-days": {
+		"data": []
+	},
+	"opendb-mall-goods-favorite": {
+		"data": []
+	},
+	"opendb-mall-goods-group-buying": {
+		"data": []
+	},
+	"opendb-mall-goods-visite": {
+		"data": [{
+			"create_date": 1658409869155,
+			"goods_id": "62afcf289d207000012c39900",
+			"update_date": 1658411082690,
+			"user_id": "f6e08a6462d952ca0d3fddc2425a3a9d"
+		}]
+	},
+	"opendb-mall-sku": {
+		"data": [{
+			"agreement_price": 1000,
+			"create_date": 1636697840057,
+			"goods_id": "618e06f009d6d10001dbe7700",
+			"goods_thumb": "https://cbu01.alicdn.com/img/ibank/2020/093/534/13816435390_559825366.jpg",
+			"market_price": 18300,
+			"price": 4400,
+			"shop_id": "60dd9001e22fbe0001777c960",
+			"sku_name": "无痕短袖浅蓝条纹&gt;100码建议身高90cm-100cm",
+			"spec_value_ids": "5769258_5769267",
+			"stock": 3845,
+			"third_id": 4324404257350,
+			"update_date": 1636697840057
+		}]
+	},
+	"opendb-news-article-read": {
+		"data": []
+	},
+	"opendb-news-articles": {
+		"data": [{
+			"article_status": 1,
+			"avatar": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-a9b22f02-2885-453d-8784-8be0b8a11698/87f8b799-d4a2-41bb-9958-a3127db60547.jpg",
+			"category_id": "6086625a8f0fb30001e486e30",
+			"comment_count": 0,
+			"comment_status": 0,
+			"content": "<p><strong>每个人都喜欢成功，却又时常感觉自己力不从心。</strong></p>\n<p>&nbsp;</p>\n<p>一个小男孩在院子里搬一块石头，父亲在旁边鼓励：&ldquo;孩子，只要你全力以赴，一定搬得起来！&rdquo;</p>\n<p>&nbsp;</p>\n<p>但是石头太重，最终孩子也没能搬起来。他告诉父亲：&ldquo;石头太重，我已经用尽全力了！&rdquo;</p>\n<p>&nbsp;</p>\n<p>父亲说：&ldquo;你没有用尽全力。&rdquo;小男孩不解，父亲微笑着说：&ldquo;因为我在你旁边，你都没有请求我的帮助！&rdquo;</p>\n<p>&nbsp;</p>\n<p>其实一件事情结果的达成，谁又规定只能用自己的能力呢？很多成功者并不是他的能力有多强，而是他能整合更多的资源。</p>\n<p>&nbsp;</p>\n<p>我们也把这个叫&ldquo;借力&rdquo;。</p>\n<p>&nbsp;</p>\n<p>▌一个人的成就有一半靠自己的努力有一半靠平台对你的成就，当你失去其中一半的时候，你其实也同时失去了另外的一半，继续努力奋斗，为了平台上每一个相信你的家人。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>三国时候的诸葛亮是&ldquo;借力&rdquo;用得最好的人之一，周瑜对诸葛亮说：&ldquo;3天之内，给我打造10万支箭。&rdquo;</p>\n<p>&nbsp;</p>\n<p>这是根本不可能完成的任务，诸葛亮还是满口答应。为什么？</p>\n<p>&nbsp;</p>\n<p>打造不出可以借嘛！他跟曹操说&ldquo;我想杀你，借我10万支箭好吗？&rdquo;</p>\n<p>&nbsp;</p>\n<p>在一个大雾蒙蒙的早上，诸葛亮派出几千艘木船，船上扎满了稻草，佯装攻打曹营的样子。</p>\n<p>&nbsp;</p>\n<p>曹操一看诸葛亮你真的要杀我呀，我先用箭射死你，命令所有的弓箭手万箭齐发，结果箭一支支射到了船的稻草上，不到一个时辰，诸葛亮就收到曹操送来的10多万支箭。</p>\n<p>&nbsp;</p>\n<p>谁说借力只能面向&ldquo;我的同事、我的朋友、我的亲人&rdquo;，有时候你的竞争对手也是很好的借力对象。</p>\n<p>&nbsp;</p>\n<p>突破&ldquo;我&rdquo;的局限，世界才会更宽广。</p>\n<p>&nbsp;</p>\n<p>▌普通人学别人的结论，被结论所困，活在别人的阴影里，成功者学领袖如何建立思维，转身变成自己的思维，建立起强大自我。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>讲一个国外的故事，英国大英图书馆，是世界上著名的图书馆，里面的藏书非常丰富，有一次，图书馆要搬家，也就是说从旧馆要搬到新馆去，结果一算，搬运费要几百万，根本就没有这么多钱。</p>\n<p>&nbsp;</p>\n<p>怎么办？有人给馆长出了个注意。</p>\n<p>&nbsp;</p>\n<p>图书馆在报上登了一个广告：从即日开始，每个市民可以免费从大英图书馆借10本书。</p>\n<p>&nbsp;</p>\n<p>结果，许多市民蜂拥而至，没几天，就把图书馆的书借光了。书借出去了，怎么还呢？</p>\n<p>&nbsp;</p>\n<p>大家给我还到新馆来。就这样，图书馆借用大家的力量搬了一次家。</p>\n<p>&nbsp;</p>\n<p>你肯定也想像大英图书馆那样&ldquo;四两拨千斤&rdquo;。</p>\n<p>&nbsp;</p>\n<p>如果你能发现自己的&ldquo;四两之力&rdquo;（图书），并且敢于把&ldquo;四两之力&rdquo;用出去（免费借阅），一切就都不是问题。</p>\n<p>&nbsp;</p>\n<p>给予，有时也是一种借力。</p>\n<p>&nbsp;</p>\n<p>▌借力不仅是一种能力，也是一种勇气，更是一种智慧。</p>",
+			"excerpt": "",
+			"is_essence": 0,
+			"is_sticky": 0,
+			"last_modify_date": 1619496852871,
+			"last_modify_ip": "113.116.79.28",
+			"like_count": 0,
+			"mode": 1,
+			"publish_date": 1619443419687,
+			"publish_ip": "124.234.202.217",
+			"title": "成功，要“借力”，不要“尽力”（深刻！）",
+			"user_id": "60868a6d2c1f0d0001e19cd30",
+			"view_count": 7303
+		}]
+	},
+	"opendb-news-categories": {
+		"data": [{
+			"create_date": 1619419725855,
+			"description": "",
+			"icon": "",
+			"name": "公告",
+			"sort": 2
+		}]
+	},
+	"opendb-news-comments": {
+		"data": []
+	},
+	"opendb-news-favorite": {
+		"data": []
+	},
+	"opendb-search-hot": {
+		"data": []
+	},
+	"opendb-search-log": {
+		"data": []
+	},
+	"opendb-verify-codes": {
+		"data": [{
+			"code": "fzzr",
+			"created_date": 1658409158777,
+			"deviceId": "16567259971811731369",
+			"expired_date": 1658409338777,
+			"ip": "14.111.60.33",
+			"scene": "login",
+			"state": 0
+		}]
+	},
+	"tian-identity": {
+		"data": [{
+			"data": "{\"result\":false,\"returnCode\":\"500\",\"message\":\"查询无结果，请隔段时间再查\"}",
+			"expires": 1622817934614,
+			"key": "cache_cloud_express_search_343434"
+		}],
+		"index": [{
+				"IndexName": "index_key",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+							"Name": "key",
+							"Direction": "1"
+						},
+						{
+							"Name": "dcloud_appid",
+							"Direction": "1"
+						}
+					],
+					"MgoIsUnique": true
+				}
+			},
+			{
+				"IndexName": "index_type",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+						"Name": "type",
+						"Direction": "1"
+					}],
+					"MgoIsUnique": false
+				}
+			},
+			{
+				"IndexName": "tian-identity_openid_index_",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+						"Name": "_openid",
+						"Direction": "1"
+					}],
+					"MgoIsUnique": false
+				}
+			}
+		],
+		"schema": {
+			"name": "编号生成",
+			"bsonType": "object",
+			"required": [],
+			"permission": {
+				"read": true,
+				"create": false,
+				"update": false,
+				"delete": false
+			},
+			"properties": {
+				"_id": {
+					"description": "ID，系统自动生成"
+				},
+				"key": {
+					"bsonType": "string",
+					"title": "关键字"
+				},
+				"name": {
+					"bsonType": "string",
+					"title": "名称"
+				},
+				"value": {
+					"bsonType": "int",
+					"title": "值"
+				},
+				"data": {
+					"bsonType": "string",
+					"title": "内容"
+				},
+				"dataType": {
+					"bsonType": "string",
+					"title": "data数据类型"
+				},
+				"options": {
+					"bsonType": "string",
+					"title": "选项"
+				},
+				"type": {
+					"bsonType": "string",
+					"title": "类型"
+				},
+				"description": {
+					"bsonType": "string",
+					"title": "说明"
+				},
+				"is_key_value": {
+					"bsonType": "bool",
+					"title": "键值对"
+				},
+				"dcloud_appid": {
+					"bsonType": "array",
+					"title": "客户端",
+					"foreignKey": "opendb-app-list.appid",
+					"enum": {
+						"collection": "opendb-app-list",
+						"orderby": "appid asc",
+						"field": "appid as value, name as text"
+					}
+				},
+				"create_date": {
+					"bsonType": "timestamp",
+					"description": "创建时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				},
+				"update_date": {
+					"bsonType": "timestamp",
+					"description": "修改时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				}
+			}
+		}
+	},
+	"tian-mall-categories": {
+		"data": [{
+			"ad_banner": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3fbab731-e993-47e6-882f-a74e444709a3/dff6f969-db60-4289-897c-ea3cac25ad69.jpg",
+			"create_date": 1640920714986,
+			"icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3fbab731-e993-47e6-882f-a74e444709a3/405da48f-a2af-4432-9e9c-fc68a7832da3.jpg",
+			"is_hot_show": false,
+			"is_index_show": true,
+			"name": "家电",
+			"sort": 100,
+			"status": true
+		}],
+		"index": [{
+			"IndexName": "tian-mall-categories_openid_index_",
+			"MgoKeySchema": {
+				"MgoIndexKeys": [{
+					"Name": "_openid",
+					"Direction": "1"
+				}],
+				"MgoIsUnique": false
+			}
+		}],
+		"schema": {
+			"name": "平台分类,3级分类",
+			"bsonType": "object",
+			"required": [
+				"name"
+			],
+			"permission": {
+				"read": true,
+				"create": true,
+				"update": false,
+				"delete": false
+			},
+			"properties": {
+				"_id": {
+					"description": "存储文档 ID（文章 ID），系统自动生成"
+				},
+				"parent_id": {
+					"bsonType": "string",
+					"description": "父ID，用于多级分类",
+					"parentKey": "_id"
+				},
+				"name": {
+					"bsonType": "string",
+					"description": "类别名称",
+					"title": "类别名称",
+					"trim": "both"
+				},
+				"icon": {
+					"bsonType": "string",
+					"description": "类别图标/图片地址",
+					"title": "图标地址",
+					"pattern": "^(http://|https://|/|./|@/)\\S",
+					"trim": "both"
+				},
+				"ad_banner": {
+					"bsonType": "string",
+					"title": "广告图",
+					"component": {
+						"name": "cloud-image",
+						"props": {
+							"size": "450x150"
+						}
+					}
+				},
+				"ad_open_url": {
+					"bsonType": "string",
+					"title": "广告跳转"
+				},
+				"sort": {
+					"bsonType": "int",
+					"description": "类别排序，越大越靠后",
+					"title": "排序"
+				},
+				"description": {
+					"bsonType": "string",
+					"description": "类别描述",
+					"title": "类别描述",
+					"trim": "both"
+				},
+				"is_hot_show": {
+					"bsonType": "bool",
+					"title": "加入热门显示",
+					"description": "是否热门显示"
+				},
+				"is_index_show": {
+					"bsonType": "bool",
+					"title": "首页显示",
+					"description": "是否首页显示"
+				},
+				"status": {
+					"bsonType": "bool",
+					"defaultValue": true,
+					"title": "生效状态"
+				},
+				"create_date": {
+					"bsonType": "timestamp",
+					"description": "创建时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				}
+			}
+		}
+	},
+	"tian-mall-coupon-users": {
+		"data": [],
+		"index": [{
+			"IndexName": "tian-mall-coupon-users_openid_index_",
+			"MgoKeySchema": {
+				"MgoIndexKeys": [{
+					"Name": "_openid",
+					"Direction": "1"
+				}],
+				"MgoIsUnique": false
+			}
+		}],
+		"schema": {
+			"name": "用户领取的店铺优惠券",
+			"bsonType": "object",
+			"required": [],
+			"permission": {
+				"read": true,
+				"create": false,
+				"update": false,
+				"delete": false
+			},
+			"properties": {
+				"_id": {
+					"description": "ID，系统自动生成"
+				},
+				"id": {
+					"bsonType": "string",
+					"title": "优惠券id",
+					"foreignKey": "tian-coupons._id"
+				},
+				"beginTime": {
+					"bsonType": "timestamp",
+					"title": "开始时间戳"
+				},
+				"endTime": {
+					"bsonType": "timestamp",
+					"title": "结束时间戳"
+				},
+				"useTime": {
+					"bsonType": "timestamp",
+					"title": "使用时间戳"
+				},
+				"goods": {
+					"bsonType": "array",
+					"title": "店铺内商品IDS",
+					"foreignKey": "tian-goods._id"
+				},
+				"src": {
+					"bsonType": "string",
+					"title": "封面图",
+					"description": "列表上优先显示封面，否则文字拼凑",
+					"component": {
+						"name": "cloud-image",
+						"props": {
+							"name": "src",
+							"v-model": "formData.src"
+						}
+					}
+				},
+				"category": {
+					"bsonType": "array",
+					"title": "分类列表IDS",
+					"foreignKey": "tian-goods-categories._id"
+				},
+				"limit": {
+					"bsonType": "int",
+					"title": "限制领取张数",
+					"defaultValue": 1
+				},
+				"stock": {
+					"bsonType": "int",
+					"title": "总库存",
+					"defaultValue": 100
+				},
+				"manjine": {
+					"bsonType": "object",
+					"title": "金额满减",
+					"properties": {
+						"amount": {
+							"bsonType": "double",
+							"title": "优惠金额",
+							"defaultValue": 1
+						},
+						"condition": {
+							"bsonType": "double",
+							"title": "条件",
+							"defaultValue": 10
+						}
+					}
+				},
+				"manshuliang": {
+					"bsonType": "object",
+					"title": "数量满减",
+					"properties": {
+						"amount": {
+							"bsonType": "double",
+							"title": "优惠金额",
+							"defaultValue": 1
+						},
+						"condition": {
+							"bsonType": "int",
+							"title": "条件",
+							"defaultValue": 10
+						}
+					}
+				},
+				"memo": {
+					"bsonType": "string",
+					"title": "说明"
+				},
+				"price": {
+					"bsonType": "double",
+					"title": "优惠金额",
+					"defaultValue": 1
+				},
+				"shop": {
+					"bsonType": "string",
+					"title": "店铺",
+					"description": "商品店铺",
+					"foreignKey": "tian-shops._id"
+				},
+				"state": {
+					"bsonType": "int",
+					"title": "状态",
+					"defaultValue": 0,
+					"enum": [{
+							"text": "草稿箱",
+							"value": 0
+						},
+						{
+							"text": "已发布",
+							"value": 1
+						},
+						{
+							"text": "已停用",
+							"value": 2
+						}
+					]
+				},
+				"title": {
+					"bsonType": "string",
+					"title": "标题"
+				},
+				"today": {
+					"bsonType": "bool",
+					"title": "是否当日可用"
+				},
+				"created": {
+					"bsonType": "timestamp",
+					"description": "创建时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				},
+				"modified": {
+					"bsonType": "timestamp",
+					"description": "修改时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				},
+				"type": {
+					"bsonType": "int",
+					"title": "类型",
+					"enum": [{
+							"text": "商品券",
+							"value": 1
+						},
+						{
+							"text": "分类券",
+							"value": 2
+						},
+						{
+							"text": "店铺券",
+							"value": 3
+						}
+					]
+				},
+				"style": {
+					"bsonType": "string",
+					"title": "类型",
+					"enum": [{
+							"text": "满金额减",
+							"value": "manjine"
+						},
+						{
+							"text": "满数量减",
+							"value": "manshuliang"
+						}
+					]
+				},
+				"uid": {
+					"bsonType": "string",
+					"title": "用户",
+					"description": "用户",
+					"foreignKey": "uni-id-users._id"
+				}
+			}
+		}
+	},
+	"tian-mall-coupons": {
+		"data": [],
+		"index": [{
+			"IndexName": "tian-mall-coupons_openid_index_",
+			"MgoKeySchema": {
+				"MgoIndexKeys": [{
+					"Name": "_openid",
+					"Direction": "1"
+				}],
+				"MgoIsUnique": false
+			}
+		}],
+		"schema": {
+			"bsonType": "object",
+			"required": [],
+			"permission": {
+				"read": true,
+				"create": false,
+				"update": false,
+				"delete": false
+			},
+			"properties": {
+				"_id": {
+					"description": "ID，系统自动生成"
+				},
+				"beginTime": {
+					"bsonType": "timestamp",
+					"title": "开始时间戳"
+				},
+				"endTime": {
+					"bsonType": "timestamp",
+					"title": "结束时间戳"
+				},
+				"goods": {
+					"bsonType": "array",
+					"title": "店铺内商品列表",
+					"properties": {
+						"_id": {
+							"bsonType": "string"
+						},
+						"title": {
+							"bsonType": "string"
+						}
+					}
+				},
+				"src": {
+					"bsonType": "string",
+					"title": "封面图",
+					"description": "列表上优先显示封面，否则文字拼凑",
+					"component": {
+						"name": "cloud-image",
+						"props": {
+							"name": "src",
+							"v-model": "formData.src"
+						}
+					}
+				},
+				"category": {
+					"bsonType": "array",
+					"title": "分类列表",
+					"properties": {
+						"_id": {
+							"bsonType": "string"
+						},
+						"title": {
+							"bsonType": "string"
+						}
+					}
+				},
+				"limit": {
+					"bsonType": "int",
+					"title": "限制领取张数",
+					"defaultValue": 1
+				},
+				"stock": {
+					"bsonType": "int",
+					"title": "总库存",
+					"defaultValue": 100
+				},
+				"manjine": {
+					"bsonType": "object",
+					"title": "金额满减",
+					"properties": {
+						"amount": {
+							"bsonType": "double",
+							"title": "优惠金额",
+							"defaultValue": 1
+						},
+						"condition": {
+							"bsonType": "double",
+							"title": "条件",
+							"defaultValue": 10
+						}
+					}
+				},
+				"manshuliang": {
+					"bsonType": "object",
+					"title": "数量满减",
+					"properties": {
+						"amount": {
+							"bsonType": "double",
+							"title": "优惠金额",
+							"defaultValue": 1
+						},
+						"condition": {
+							"bsonType": "int",
+							"title": "条件",
+							"defaultValue": 10
+						}
+					}
+				},
+				"memo": {
+					"bsonType": "string",
+					"title": "说明"
+				},
+				"price": {
+					"bsonType": "double",
+					"title": "优惠金额",
+					"defaultValue": 1
+				},
+				"shop": {
+					"bsonType": "string",
+					"title": "店铺",
+					"description": "商品店铺",
+					"foreignKey": "tian-shops._id"
+				},
+				"state": {
+					"bsonType": "int",
+					"title": "状态",
+					"defaultValue": 0,
+					"enum": [{
+							"text": "草稿箱",
+							"value": 0
+						},
+						{
+							"text": "已发布",
+							"value": 1
+						},
+						{
+							"text": "已停用",
+							"value": 2
+						}
+					]
+				},
+				"title": {
+					"bsonType": "string",
+					"title": "标题"
+				},
+				"today": {
+					"bsonType": "bool",
+					"title": "是否当日可用"
+				},
+				"created": {
+					"bsonType": "timestamp",
+					"description": "创建时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				},
+				"modified": {
+					"bsonType": "timestamp",
+					"description": "修改时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				},
+				"type": {
+					"bsonType": "int",
+					"title": "类型",
+					"enum": [{
+							"text": "商品券",
+							"value": 1
+						},
+						{
+							"text": "分类券",
+							"value": 2
+						},
+						{
+							"text": "店铺券",
+							"value": 3
+						}
+					]
+				},
+				"style": {
+					"bsonType": "string",
+					"title": "类型",
+					"enum": [{
+							"text": "满金额减",
+							"value": "manjine"
+						},
+						{
+							"text": "满数量减",
+							"value": "manshuliang"
+						}
+					]
+				}
+			}
+		}
+	},
+	"tian-mall-hour-miaosha": {
+		"data": [],
+		"index": [{
+			"IndexName": "tian-mall-hour-miaosha_openid_index_",
+			"MgoKeySchema": {
+				"MgoIndexKeys": [{
+					"Name": "_openid",
+					"Direction": "1"
+				}],
+				"MgoIsUnique": false
+			}
+		}],
+		"schema": {
+			"name": "整点秒杀场次",
+			"bsonType": "object",
+			"required": [],
+			"permission": {
+				"read": true,
+				"create": false,
+				"update": false,
+				"delete": false
+			},
+			"properties": {
+				"_id": {
+					"description": "ID，系统自动生成"
+				},
+				"name": {
+					"bsonType": "string",
+					"title": "名称"
+				},
+				"description": {
+					"bsonType": "string",
+					"title": "描述"
+				},
+				"hour": {
+					"bsonType": "string",
+					"title": "小时"
+				},
+				"posid": {
+					"bsonType": "int",
+					"title": "排序，正序",
+					"defaultValue": 0
+				},
+				"state": {
+					"bsonType": "int",
+					"title": "状态",
+					"defaultValue": 0,
+					"enum": [{
+							"text": "已停用",
+							"value": 0
+						},
+						{
+							"text": "已发布",
+							"value": 1
+						}
+					]
+				},
+				"begin_time": {
+					"bsonType": "timestamp",
+					"title": "开始时间戳"
+				},
+				"end_time": {
+					"bsonType": "timestamp",
+					"title": "结束时间戳"
+				},
+				"created": {
+					"bsonType": "timestamp",
+					"description": "创建时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				},
+				"modified": {
+					"bsonType": "timestamp",
+					"description": "修改时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				}
+			}
+		}
+	},
+	"tian-mall-hour-miaosha-goods": {
+		"data": [],
+		"index": [{
+			"IndexName": "tian-mall-hour-miaosha-goods_openid_index_",
+			"MgoKeySchema": {
+				"MgoIndexKeys": [{
+					"Name": "_openid",
+					"Direction": "1"
+				}],
+				"MgoIsUnique": false
+			}
+		}],
+		"schema": {
+			"name": "整点秒杀商品，定时器生成临时数据",
+			"bsonType": "object",
+			"required": [],
+			"permission": {
+				"read": true,
+				"create": false,
+				"update": false,
+				"delete": false
+			},
+			"properties": {
+				"_id": {
+					"description": "ID，系统自动生成"
+				},
+				"miaosha_id": {
+					"bsonType": "string",
+					"title": "秒杀场次",
+					"foreignKey": "tian-mall-hour-miaosha._id"
+				},
+				"miaosha": {
+					"bsonType": "object",
+					"title": "秒杀信息"
+				},
+				"shop_id": {
+					"bsonType": "string",
+					"title": "店铺",
+					"foreignKey": "tian-mall-shops._id"
+				},
+				"goods_id": {
+					"bsonType": "string",
+					"title": "商品",
+					"foreignKey": "opendb-mall-goods._id"
+				},
+				"goods": {
+					"bsonType": "object",
+					"title": "商品信息"
+				},
+				"sku_id": {
+					"bsonType": "string",
+					"title": "商品规格",
+					"description": "如果不选择规格，则代表所有都享受折扣",
+					"foreignKey": "opendb-mall-sku._id"
+				},
+				"sku": {
+					"bsonType": "object",
+					"title": "商品规格"
+				},
+				"posid": {
+					"bsonType": "int",
+					"title": "排序，正序",
+					"defaultValue": 0
+				},
+				"discount": {
+					"bsonType": "int",
+					"title": "折扣",
+					"defaultValue": 80,
+					"minimum": 1,
+					"maximum": 99
+				},
+				"price": {
+					"bsonType": "int",
+					"title": "价格"
+				},
+				"market_price": {
+					"bsonType": "int",
+					"title": "原价"
+				},
+				"is_limit": {
+					"bsonType": "bool",
+					"title": "是否限购",
+					"defaultValue": false
+				},
+				"limit_stock": {
+					"bsonType": "int",
+					"title": "总库存",
+					"description": "0不限制",
+					"defaultValue": 0
+				},
+				"sale_count": {
+					"bsonType": "int",
+					"title": "已售"
+				},
+				"limit_order_count": {
+					"bsonType": "int",
+					"title": "订单限购数量",
+					"defaultValue": 0
+				},
+				"limit_user_count": {
+					"bsonType": "int",
+					"title": "用户限购数量",
+					"defaultValue": 0
+				},
+				"state": {
+					"bsonType": "int",
+					"title": "状态",
+					"defaultValue": 0,
+					"enum": [{
+							"text": "审核中",
+							"value": 0
+						},
+						{
+							"text": "已发布",
+							"value": 1
+						},
+						{
+							"text": "拒绝",
+							"value": 2
+						}
+					]
+				},
+				"begin_time": {
+					"bsonType": "timestamp",
+					"title": "开始时间戳"
+				},
+				"end_time": {
+					"bsonType": "timestamp",
+					"title": "结束时间戳"
+				},
+				"created": {
+					"bsonType": "timestamp",
+					"description": "创建时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				},
+				"modified": {
+					"bsonType": "timestamp",
+					"description": "修改时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				}
+			}
+		}
+	},
+	"tian-mall-order-refunds": {
+		"data": [],
+		"index": [{
+				"IndexName": "uid",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+						"Name": "user_id",
+						"Direction": "1"
+					}],
+					"MgoIsUnique": false
+				}
+			},
+			{
+				"IndexName": "tian-mall-order-refunds_openid_index_",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+						"Name": "_openid",
+						"Direction": "1"
+					}],
+					"MgoIsUnique": false
+				}
+			}
+		],
+		"schema": {
+			"name": "订单退款信息",
+			"bsonType": "object",
+			"required": [],
+			"permission": {
+				"read": true,
+				"create": false,
+				"update": "doc.user_id == auth.uid && doc.state < 1",
+				"delete": "doc.user_id == auth.uid && doc.state < 1"
+			},
+			"properties": {
+				"_id": {
+					"description": "ID，系统自动生成"
+				},
+				"create_time": {
+					"bsonType": "timestamp",
+					"description": "订单创建时间"
+				},
+				"update_time": {
+					"bsonType": "timestamp",
+					"description": "订单更新时间"
+				},
+				"operater_log": {
+					"bsonType": "array",
+					"title": "后台操作日志，0最新操作"
+				},
+				"id": {
+					"bsonType": "int",
+					"title": "编号"
+				},
+				"order_id": {
+					"bsonType": "string",
+					"title": "订单编号"
+				},
+				"goods": {
+					"bsonType": "object",
+					"title": "商品"
+				},
+				"type": {
+					"bsonType": "string",
+					"title": "售后类型"
+				},
+				"reason": {
+					"bsonType": "string",
+					"title": "原因"
+				},
+				"goods_status": {
+					"bsonType": "string",
+					"title": "商品状态"
+				},
+				"shop_id": {
+					"bsonType": "string",
+					"title": "店铺id"
+				},
+				"shop": {
+					"bsonType": "object",
+					"title": "店铺信息"
+				},
+				"describe": {
+					"bsonType": "string",
+					"title": "描述"
+				},
+				"imgs": {
+					"bsonType": "array",
+					"title": "图片描述"
+				},
+				"money": {
+					"bsonType": "int",
+					"title": "退款金额，单位分"
+				},
+				"platform": {
+					"bsonType": "string",
+					"title": "操作平台"
+				},
+				"state": {
+					"bsonType": "int",
+					"title": "退款状态",
+					"description": "0申请中，1同意退款，2退款成功，-1拒绝",
+					"permission": {
+						"read": true,
+						"create": false,
+						"update": false,
+						"delete": false
+					}
+				},
+				"result": {
+					"bsonType": "object",
+					"title": "退款结果"
+				},
+				"user_id": {
+					"bsonType": "string",
+					"title": "用户",
+					"description": "用户",
+					"foreignKey": "uni-id-users._id"
+				}
+			}
+		}
+	},
+	"tian-mall-visit": {
+		"data": [],
+		"index": [{
+				"IndexName": "tian-mall-visit_openid_index_",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+						"Name": "_openid",
+						"Direction": "1"
+					}],
+					"MgoIsUnique": false
+				}
+			},
+			{
+				"IndexName": "user_id",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+							"Name": "user_id",
+							"Direction": "1"
+						},
+						{
+							"Name": "type",
+							"Direction": "1"
+						},
+						{
+							"Name": "id",
+							"Direction": "1"
+						}
+					],
+					"MgoIsUnique": true
+				}
+			}
+		],
+		"schema": {
+			"bsonType": "object",
+			"required": [],
+			"permission": {
+				"read": true,
+				"create": true,
+				"update": "doc.user_id == auth.uid",
+				"delete": "doc.user_id == auth.uid"
+			},
+			"properties": {
+				"_id": {
+					"description": "ID，系统自动生成"
+				},
+				"id": {
+					"bsonType": "string",
+					"title": "编号"
+				},
+				"title": {
+					"bsonType": "string",
+					"title": "标题"
+				},
+				"avatar": {
+					"bsonType": "string",
+					"title": "封面图"
+				},
+				"description": {
+					"bsonType": "string",
+					"title": "简介"
+				},
+				"price": {
+					"bsonType": "int",
+					"title": "价格"
+				},
+				"type": {
+					"bsonType": "string",
+					"description": "类型，goods/article，点击跳转不同页面"
+				},
+				"user_id": {
+					"bsonType": "string",
+					"description": "评论者的uid，参考 uni-id-users 表",
+					"foreignKey": "uni-id-users._id",
+					"defaultValue": {
+						"$env": "uid"
+					}
+				},
+				"create_date": {
+					"bsonType": "timestamp",
+					"description": "创建时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				},
+				"update_date": {
+					"bsonType": "timestamp",
+					"description": "修改时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				}
+			}
+		}
+	},
+	"tian-mall-favorite": {
+		"data": [],
+		"index": [{
+				"IndexName": "user_id",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+							"Name": "user_id",
+							"Direction": "1"
+						},
+						{
+							"Name": "type",
+							"Direction": "1"
+						},
+						{
+							"Name": "id",
+							"Direction": "1"
+						}
+					],
+					"MgoIsUnique": true
+				}
+			},
+			{
+				"IndexName": "tian-mall-favorite_openid_index_",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+						"Name": "_openid",
+						"Direction": "1"
+					}],
+					"MgoIsUnique": false
+				}
+			}
+		],
+		"schema": {
+			"bsonType": "object",
+			"required": [],
+			"permission": {
+				"read": true,
+				"create": true,
+				"update": "doc.user_id == auth.uid",
+				"delete": "doc.user_id == auth.uid"
+			},
+			"properties": {
+				"_id": {
+					"description": "ID，系统自动生成"
+				},
+				"id": {
+					"bsonType": "string",
+					"title": "编号"
+				},
+				"title": {
+					"bsonType": "string",
+					"title": "标题"
+				},
+				"avatar": {
+					"bsonType": "string",
+					"title": "封面图"
+				},
+				"description": {
+					"bsonType": "string",
+					"title": "简介"
+				},
+				"price": {
+					"bsonType": "int",
+					"title": "价格"
+				},
+				"type": {
+					"bsonType": "array",
+					"description": "类型，goods/article，点击跳转不同页面"
+				},
+				"video": {
+					"bsonType": "string",
+					"description": "视频地址"
+				},
+				"user_id": {
+					"bsonType": "string",
+					"description": "评论者的uid，参考 uni-id-users 表",
+					"foreignKey": "uni-id-users._id",
+					"defaultValue": {
+						"$env": "uid"
+					}
+				},
+				"create_date": {
+					"bsonType": "timestamp",
+					"description": "创建时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				},
+				"update_date": {
+					"bsonType": "timestamp",
+					"description": "修改时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				}
+			}
+		}
+	},
+	"tian-mall-orders": {
+		"data": [{
+			"address": {
+				"_id": "8f75309d62d953010e3940852bec1bf3",
+				"address": "小岛上",
+				"area_code": "460322",
+				"city_code": "460300",
+				"create_date": 1658409729093,
+				"formatted_address": "海南省三沙市南沙群岛",
+				"is_default": false,
+				"mobile": "15986613315",
+				"name": "李格",
+				"province_code": "460000",
+				"update_date": 1658409729093,
+				"user_id": "f6e08a6462d952ca0d3fddc2425a3a9d"
+			},
+			"body": "潘多拉Pandora漫步云端手链ZT0393+ZT0393+17cm",
+			"cart_count": 1,
+			"coupon": "",
+			"create_time": 1658409735292,
+			"dcloud_appid": "__UNI__9E9D6A0",
+			"delivers": [{
+				"amount": 1,
+				"code": "tiantian",
+				"company": "天天快递",
+				"goods_id": "618e0ba990793100011747920",
+				"number": "3333333",
+				"sku_id": "618e0ba913207d0001a368bf0",
+				"type": "add"
+			}],
+			"delivery_type": "express",
+			"discount": 0,
+			"freight": 0,
+			"goods": [{
+				"amount": 1,
+				"category_id": "618cc4695a2a9d00018d20ee0",
+				"disable": false,
+				"discount": 0,
+				"goods_id": "618e0ba990793100011747920",
+				"goods_sn": "5258235",
+				"goods_thumb": "http://img.jxhh.com/ewei_shopseller603781636334257741688209?imageMogr2/thumbnail/320x/strip/quality/75/format/jpg",
+				"group_buying_id": "",
+				"is_real": true,
+				"is_vip": false,
+				"market_price": 259000,
+				"name": "潘多拉Pandora漫步云端手链ZT0393",
+				"offline_time": 0,
+				"price": 2000,
+				"remain_count": 600,
+				"shop_id": "60dd9001e22fbe0001777c960",
+				"sku_id": "618e0ba913207d0001a368bf0",
+				"sku_name": "ZT0393+17cm",
+				"stock": 100,
+				"total": 2000
+			}],
+			"goods_total_fee": 2000,
+			"id": 10432,
+			"inviters": [],
+			"invoice": "",
+			"is_delete": 0,
+			"juli": 0,
+			"last_pay_time": 1658411535230,
+			"logs": [{
+					"time": 1658409770150,
+					"title": "付款完成"
+				},
+				{
+					"adminUser": "f6e08a6462d950d40d3fa842639bac84",
+					"time": 1659497931352,
+					"title": "订单发货"
+				},
+				{
+					"adminUser": "f6e08a6462d950d40d3fa842639bac84",
+					"time": 1659499405457,
+					"title": "订单发货"
+				},
+				{
+					"adminUser": "f6e08a6462d950d40d3fa842639bac84",
+					"time": 1659499411098,
+					"title": "订单发货"
+				}
+			],
+			"outTradeNo": "1658409769542b27a8e57753e08d30",
+			"payInfo": {
+				"balance": 9998000,
+				"code": 0,
+				"outTradeNo": "1658409769542b27a8e57753e08d30",
+				"time": 1658409769925,
+				"totalFee": 2000,
+				"transaction_id": "f6e08a6462d953290d3fe5692da9b437",
+				"type": "balance",
+				"userInfo": {
+					"_id": "f6e08a6462d952ca0d3fddc2425a3a9d",
+					"balance": 9998000
+				}
+			},
+			"platform": "web",
+			"rebate_state": 0,
+			"rebates": [],
+			"remarks": "无",
+			"score": 0,
+			"score2moneyRate": 0,
+			"send_sms": {
+				"start_shipping": 1
+			},
+			"shop": {
+				"_id": "60dd9001e22fbe0001777c960",
+				"freight": 0,
+				"id": 10000,
+				"money_rate": "5",
+				"name": "天天商城默认店铺",
+				"online": true,
+				"payments": {},
+				"settlement_mode": "balance",
+				"src": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3fbab731-e993-47e6-882f-a74e444709a3/596ced87-baa3-4605-8e33-2a55e34d0957.png",
+				"total_fee": 1900,
+				"uid": "60826dfef61a7400013855fe0"
+			},
+			"shop_id": "60dd9001e22fbe0001777c960",
+			"state": 2,
+			"today": 1658332800000,
+			"total_fee": 2000,
+			"update_time": 1658409735292,
+			"userInfo": {
+				"_id": "f6e08a6462d952ca0d3fddc2425a3a9d",
+				"balance": 0,
+				"channel_code": "",
+				"coupon": 0,
+				"members": [],
+				"mobile": "15986613315",
+				"score": 0
+			},
+			"user_id": "f6e08a6462d952ca0d3fddc2425a3a9d"
+		}],
+		"index": [{
+				"IndexName": "outTradeNo",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+							"Name": "outTradeNo",
+							"Direction": "1"
+						},
+						{
+							"Name": "state",
+							"Direction": "1"
+						}
+					],
+					"MgoIsUnique": false
+				}
+			},
+			{
+				"IndexName": "tian-mall-orders_openid_index_",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+						"Name": "_openid",
+						"Direction": "1"
+					}],
+					"MgoIsUnique": false
+				}
+			},
+			{
+				"IndexName": "index-user_id",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+							"Name": "user_id",
+							"Direction": "1"
+						},
+						{
+							"Name": "state",
+							"Direction": "1"
+						},
+						{
+							"Name": "is_delete",
+							"Direction": "1"
+						}
+					],
+					"MgoIsUnique": false
+				}
+			},
+			{
+				"IndexName": "index_inviters",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+							"Name": "inviters._id",
+							"Direction": "1"
+						},
+						{
+							"Name": "state",
+							"Direction": "1"
+						},
+						{
+							"Name": "create_time",
+							"Direction": "1"
+						}
+					],
+					"MgoIsUnique": false
+				}
+			},
+			{
+				"IndexName": "index_shop",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+							"Name": "shop_id",
+							"Direction": "1"
+						},
+						{
+							"Name": "state",
+							"Direction": "1"
+						},
+						{
+							"Name": "create_time",
+							"Direction": "1"
+						}
+					],
+					"MgoIsUnique": false
+				}
+			}
+		],
+		"schema": {
+			"name": "订单信息",
+			"bsonType": "object",
+			"required": [],
+			"permission": {
+				"read": true,
+				"create": false,
+				"update": "doc.user_id == auth.uid && doc.state < 1",
+				"delete": "doc.user_id == auth.uid && doc.state < 1"
+			},
+			"properties": {
+				"_id": {
+					"description": "ID，系统自动生成"
+				},
+				"create_time": {
+					"bsonType": "timestamp",
+					"description": "订单创建时间"
+				},
+				"update_time": {
+					"bsonType": "timestamp",
+					"description": "订单更新时间"
+				},
+				"operater_log": {
+					"bsonType": "array",
+					"title": "后台操作日志，0最新操作"
+				},
+				"address": {
+					"bsonType": "object",
+					"title": "用户收货地址"
+				},
+				"id": {
+					"bsonType": "int",
+					"title": "编号"
+				},
+				"shop_id": {
+					"bsonType": "string",
+					"title": "店铺",
+					"foreignKey": "tian-mall-shops._id"
+				},
+				"body": {
+					"bsonType": "string",
+					"title": "内容"
+				},
+				"cancel_apply": {
+					"bsonType": "array",
+					"title": "取消订单请求列表"
+				},
+				"cancel_style": {
+					"bsonType": "string",
+					"title": "取消类型",
+					"enum": [{
+							"text": "自动",
+							"value": "auto"
+						},
+						{
+							"text": "用户",
+							"value": "user"
+						},
+						{
+							"text": "商家",
+							"value": "shop"
+						}
+					]
+				},
+				"cart_count": {
+					"bsonType": "int",
+					"title": "购物车数量"
+				},
+				"delivery_hour": {
+					"bsonType": "object",
+					"title": "配送时间"
+				},
+				"delivers": {
+					"bsonType": "array",
+					"title": "快递单号信息"
+				},
+				"delivery_type": {
+					"bsonType": "string",
+					"title": "配送方式",
+					"enum": [{
+							"text": "配送到家",
+							"value": "get_home"
+						},
+						{
+							"text": "快递",
+							"value": "express"
+						},
+						{
+							"text": "到店/自提点自提",
+							"value": "self_extraction"
+						}
+					]
+				},
+				"freight": {
+					"bsonType": "double",
+					"title": "运费"
+				},
+				"goods": {
+					"bsonType": "array",
+					"title": "商品"
+				},
+				"is_delete": {
+					"bsonType": "int",
+					"title": "是否删除",
+					"defaultValue": 0,
+					"enum": [{
+							"text": "否",
+							"value": 0
+						},
+						{
+							"text": "是",
+							"value": 1
+						}
+					]
+				},
+				"juli": {
+					"bsonType": "int",
+					"title": "距离，米"
+				},
+				"last_pay_time": {
+					"bsonType": "timestamp",
+					"title": "最后支付时间"
+				},
+				"platform": {
+					"bsonType": "string",
+					"title": "操作平台"
+				},
+				"remarks": {
+					"bsonType": "string",
+					"title": "备注"
+				},
+				"state": {
+					"bsonType": "int",
+					"title": "订单状态",
+					"permission": {
+						"read": true,
+						"create": false,
+						"update": false,
+						"delete": false
+					}
+				},
+				"discount": {
+					"bsonType": "int",
+					"title": "优惠金额",
+					"permission": {
+						"read": true,
+						"create": false,
+						"update": false,
+						"delete": false
+					}
+				},
+				"total_fee": {
+					"bsonType": "int",
+					"title": "订单总金额",
+					"permission": {
+						"read": true,
+						"create": false,
+						"update": false,
+						"delete": false
+					}
+				},
+				"invoice": {
+					"bsonType": "string",
+					"description": "发票"
+				},
+				"score": {
+					"bsonType": "int",
+					"title": "使用积分",
+					"permission": {
+						"read": true,
+						"create": false,
+						"update": false,
+						"delete": false
+					}
+				},
+				"user_id": {
+					"bsonType": "string",
+					"title": "用户",
+					"description": "用户",
+					"foreignKey": "uni-id-users._id"
+				}
+			}
+		}
+	},
+	"tian-mall-orders-backup": {
+		"data": [],
+		"index": [{
+			"IndexName": "tian-mall-orders-backup_openid_index_",
+			"MgoKeySchema": {
+				"MgoIndexKeys": [{
+					"Name": "_openid",
+					"Direction": "1"
+				}],
+				"MgoIsUnique": false
+			}
+		}],
+		"schema": {
+			"name": "店铺信息",
+			"bsonType": "object",
+			"required": [],
+			"permission": {
+				"read": true,
+				"create": false,
+				"update": "doc.user_id == auth.uid",
+				"delete": "doc.user_id == auth.uid"
+			},
+			"properties": {
+				"_id": {
+					"description": "ID，系统自动生成"
+				},
+				"create_time": {
+					"bsonType": "timestamp",
+					"description": "订单创建时间"
+				},
+				"update_time": {
+					"bsonType": "timestamp",
+					"description": "订单更新时间"
+				},
+				"operater_log": {
+					"bsonType": "array",
+					"title": "后台操作日志，0最新操作"
+				},
+				"address": {
+					"bsonType": "object",
+					"title": "用户收货地址"
+				},
+				"body": {
+					"bsonType": "string",
+					"title": "内容"
+				},
+				"cancel_apply": {
+					"bsonType": "array",
+					"title": "取消订单请求列表"
+				},
+				"cancel_style": {
+					"bsonType": "string",
+					"title": "取消类型",
+					"enum": [{
+							"text": "自动",
+							"value": "auto"
+						},
+						{
+							"text": "用户",
+							"value": "user"
+						},
+						{
+							"text": "商家",
+							"value": "shop"
+						}
+					]
+				},
+				"cart_count": {
+					"bsonType": "int",
+					"title": "购物车数量"
+				},
+				"delivery_hour": {
+					"bsonType": "object",
+					"title": "配送时间"
+				},
+				"delivery_type": {
+					"bsonType": "string",
+					"title": "配送方式",
+					"enum": [{
+							"text": "配送到家",
+							"value": "get_home"
+						},
+						{
+							"text": "快递",
+							"value": "express"
+						},
+						{
+							"text": "到店/自提点自提",
+							"value": "self_extraction"
+						}
+					]
+				},
+				"freight": {
+					"bsonType": "double",
+					"title": "运费"
+				},
+				"goods": {
+					"bsonType": "array",
+					"title": "商品"
+				},
+				"is_delete": {
+					"bsonType": "int",
+					"title": "是否删除",
+					"defaultValue": 0,
+					"enum": [{
+							"text": "否",
+							"value": 0
+						},
+						{
+							"text": "是",
+							"value": 1
+						}
+					]
+				},
+				"juli": {
+					"bsonType": "int",
+					"title": "距离，米"
+				},
+				"last_pay_time": {
+					"bsonType": "timestamp",
+					"title": "最后支付时间"
+				},
+				"platform": {
+					"bsonType": "string",
+					"title": "操作平台"
+				},
+				"remarks": {
+					"bsonType": "string",
+					"title": "备注"
+				},
+				"state": {
+					"bsonType": "int",
+					"title": "订单状态",
+					"permission": {
+						"read": true,
+						"create": false,
+						"update": false,
+						"delete": false
+					}
+				},
+				"discount": {
+					"bsonType": "int",
+					"title": "优惠金额",
+					"permission": {
+						"read": true,
+						"create": false,
+						"update": false,
+						"delete": false
+					}
+				},
+				"total_fee": {
+					"bsonType": "int",
+					"title": "订单总金额",
+					"permission": {
+						"read": true,
+						"create": false,
+						"update": false,
+						"delete": false
+					}
+				},
+				"invoice": {
+					"bsonType": "string",
+					"description": "发票"
+				},
+				"score": {
+					"bsonType": "int",
+					"title": "使用积分",
+					"permission": {
+						"read": true,
+						"create": false,
+						"update": false,
+						"delete": false
+					}
+				},
+				"user_id": {
+					"bsonType": "string",
+					"title": "用户",
+					"description": "用户",
+					"foreignKey": "uni-id-users._id"
+				}
+			}
+		}
+	},
+	"tian-mall-shop-apply": {
+		"data": [],
+		"index": [{
+			"IndexName": "tian-mall-shop-apply_openid_index_",
+			"MgoKeySchema": {
+				"MgoIndexKeys": [{
+					"Name": "_openid",
+					"Direction": "1"
+				}],
+				"MgoIsUnique": false
+			}
+		}],
+		"schema": {
+			"bsonType": "object",
+			"required": [
+				"name",
+				"phone",
+				"src",
+				"business_license",
+				"legal_person_license",
+				"legal_person_license_back"
+			],
+			"permission": {
+				"read": true,
+				"create": true,
+				"update": "doc.uid==auth.uid",
+				"delete": false
+			},
+			"properties": {
+				"_id": {
+					"description": "ID，系统自动生成"
+				},
+				"id": {
+					"bsonType": "int",
+					"description": "ID，系统自动生成",
+					"title": "编号"
+				},
+				"address": {
+					"bsonType": "object",
+					"title": "地址",
+					"properties": {
+						"name": {
+							"bsonType": "string",
+							"title": "地址名称",
+							"description": ""
+						},
+						"address": {
+							"bsonType": "string",
+							"title": "详细地址",
+							"description": ""
+						},
+						"latitude": {
+							"bsonType": "double",
+							"title": "维度",
+							"description": ""
+						},
+						"longitude": {
+							"bsonType": "double",
+							"title": "经度",
+							"description": ""
+						},
+						"location": {
+							"bsonType": "object",
+							"title": "位置",
+							"description": ""
+						}
+					}
+				},
+				"name": {
+					"bsonType": "string",
+					"title": "店铺名称",
+					"description": ""
+				},
+				"phone": {
+					"bsonType": "string",
+					"title": "联系电话",
+					"description": ""
+				},
+				"src": {
+					"bsonType": "string",
+					"title": "店铺logo",
+					"description": "",
+					"component": {
+						"name": "cloud-image",
+						"props": {
+							"name": "src",
+							"v-model": "formData.src"
+						}
+					}
+				},
+				"business_license": {
+					"bsonType": "string",
+					"title": "营业执照",
+					"description": "",
+					"component": {
+						"name": "cloud-image",
+						"props": {
+							"name": "business_license",
+							"v-model": "formData.business_license"
+						}
+					}
+				},
+				"food_license": {
+					"bsonType": "string",
+					"title": "食品经营许可",
+					"description": "",
+					"component": {
+						"name": "cloud-image",
+						"props": {
+							"name": "food_license",
+							"v-model": "formData.food_license"
+						}
+					}
+				},
+				"legal_person_license": {
+					"bsonType": "string",
+					"title": "法人身份证正面",
+					"description": "",
+					"component": {
+						"name": "cloud-image",
+						"props": {
+							"name": "legal_person_license",
+							"v-model": "formData.legal_person_license"
+						}
+					}
+				},
+				"legal_person_license_back": {
+					"bsonType": "string",
+					"title": "法人身份证反面",
+					"description": "",
+					"component": {
+						"name": "cloud-image",
+						"props": {
+							"name": "legal_person_license_back",
+							"v-model": "formData.legal_person_license_back"
+						}
+					}
+				},
+				"uid": {
+					"bsonType": "string",
+					"title": "创建者",
+					"description": "",
+					"foreignKey": "uni-id-users._id",
+					"defaultValue": {
+						"$env": "uid"
+					}
+				},
+				"apply_result": {
+					"bsonType": "string",
+					"title": "审核结果",
+					"description": ""
+				},
+				"state": {
+					"bsonType": "int",
+					"title": "状态",
+					"description": "0审核中，1通过，2拒绝",
+					"defaultValue": 0,
+					"enum": [{
+							"text": "审核中",
+							"value": 0
+						},
+						{
+							"text": "通过",
+							"value": 1
+						},
+						{
+							"text": "拒绝",
+							"value": 2
+						}
+					]
+				},
+				"created": {
+					"bsonType": "timestamp",
+					"description": "上传时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				},
+				"modified": {
+					"bsonType": "timestamp",
+					"description": "修改时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				},
+				"bank_card": {
+					"bsonType": "string",
+					"title": "收款银行卡",
+					"description": "",
+					"component": {
+						"name": "cloud-image",
+						"props": {
+							"name": "bank_card",
+							"v-model": "formData.bank_card"
+						}
+					}
+				},
+				"bank_no": {
+					"bsonType": "string",
+					"title": "银行卡号",
+					"description": ""
+				},
+				"bank_deposit": {
+					"bsonType": "string",
+					"title": "银行卡开户行",
+					"description": ""
+				},
+				"food_menu": {
+					"bsonType": "array",
+					"title": "菜单/食谱",
+					"description": "",
+					"component": {
+						"name": "cloud-image",
+						"props": {
+							"name": "food_menu",
+							"v-model": "formData.food_menu"
+						}
+					}
+				},
+				"store_face": {
+					"bsonType": "string",
+					"title": "门店门脸照片",
+					"description": "",
+					"component": {
+						"name": "cloud-image",
+						"props": {
+							"name": "store_face",
+							"v-model": "formData.store_face"
+						}
+					}
+				},
+				"store_imgs": {
+					"bsonType": "string",
+					"title": "门店内部照片",
+					"description": "",
+					"component": {
+						"name": "cloud-image",
+						"props": {
+							"name": "store_imgs",
+							"v-model": "formData.store_imgs"
+						}
+					}
+				}
+			}
+		}
+	},
+	"tian-mall-shops": {
+		"data": [{
+			"address": {
+				"address": "北京市东城区东长安街中山公园派出所东60米",
+				"latitude": 39.908327,
+				"location": {
+					"coordinates": [
+						116.398004,
+						39.908327
+					],
+					"type": "Point"
+				},
+				"longitude": 116.398004,
+				"name": "天安门城楼"
+			},
+			"app_id": "__UNI__9E9D6A0",
+			"banner": "",
+			"created": 1625133057755,
+			"day_sales": {
+				"1656950400000": 85,
+				"1657382400000": 500,
+				"1657555200000": 4,
+				"1657728000000": 1,
+				"1658332800000": 1
+			},
+			"deliveryTypes": [
+				"deliveryHome"
+			],
+			"employees": [
+				"60ea57123b7d3500012d2a94",
+				"60738253fe0f4500015d50d1"
+			],
+			"id": 10000,
+			"isPrint": false,
+			"last_update_sell_date": 1660233600000,
+			"mall_payment": "{\"settlement_mode\":\"balance\",\"money_rate\":\"5\"}",
+			"modified": 1625133057755,
+			"monthSale": 123561,
+			"month_sale": 123561,
+			"month_sell": 2,
+			"name": "天天商城默认店铺",
+			"online": true,
+			"page_id": "61de7f015ddb610001377ec30",
+			"payment_types": [],
+			"payments": "{}",
+			"phone": "13996041461",
+			"qr_code_payment": "{\"settlement_mode\":\"balance\",\"rebate_rate\":20,\"money_rate\":5,\"payment_notice\":\"支付有礼包\",\"background\":\"https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3fbab731-e993-47e6-882f-a74e444709a3/c21bed98-b0e6-461a-9ee1-1e10ebb41a1d.jpg\"}",
+			"refund_address": {
+				"address": "北京城101号",
+				"name": "王三",
+				"phone": "15986613315"
+			},
+			"score": 5,
+			"serviceTime": "早8点，晚9点",
+			"src": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3fbab731-e993-47e6-882f-a74e444709a3/596ced87-baa3-4605-8e33-2a55e34d0957.png",
+			"state": true,
+			"total_sell_count": 5,
+			"uid": "60826dfef61a7400013855fe0"
+		}],
+		"index": [{
+				"IndexName": "id",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+						"Name": "id",
+						"Direction": "1"
+					}],
+					"MgoIsUnique": true
+				}
+			},
+			{
+				"IndexName": "index_address",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+						"Name": "address.location",
+						"Direction": "2dsphere"
+					}],
+					"MgoIsUnique": false
+				}
+			},
+			{
+				"IndexName": "tian-mall-shops_openid_index_",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+						"Name": "_openid",
+						"Direction": "1"
+					}],
+					"MgoIsUnique": false
+				}
+			}
+		],
+		"schema": {
+			"bsonType": "object",
+			"required": [],
+			"permission": {
+				"read": true,
+				"create": false,
+				"update": false,
+				"delete": false
+			},
+			"properties": {
+				"_id": {
+					"description": "ID，系统自动生成"
+				},
+				"id": {
+					"bsonType": "int",
+					"description": "ID，系统自动生成",
+					"title": "编号"
+				},
+				"address": {
+					"bsonType": "object",
+					"title": "地址",
+					"properties": {
+						"name": {
+							"bsonType": "string",
+							"title": "地址名称",
+							"description": ""
+						},
+						"address": {
+							"bsonType": "string",
+							"title": "详细地址",
+							"description": ""
+						},
+						"latitude": {
+							"bsonType": "double",
+							"title": "维度",
+							"description": ""
+						},
+						"longitude": {
+							"bsonType": "double",
+							"title": "经度",
+							"description": ""
+						},
+						"location": {
+							"bsonType": "object",
+							"title": "位置",
+							"description": ""
+						}
+					}
+				},
+				"banner": {
+					"bsonType": "string",
+					"title": "banner",
+					"description": ""
+				},
+				"delivery": {
+					"bsonType": "object",
+					"title": "配送方式",
+					"properties": {
+						"deliveryDay": {
+							"bsonType": "int",
+							"title": "最多可预订天数",
+							"minimum": 1,
+							"maximum": 100
+						},
+						"deliveryPeriod": {
+							"bsonType": "array",
+							"title": "每日预定时段",
+							"properties": {
+								"begin": {
+									"bsonType": "int",
+									"title": "开始秒数"
+								},
+								"end": {
+									"bsonType": "int",
+									"title": "结束秒数"
+								}
+							}
+						},
+						"freeMoney": {
+							"bsonType": "int",
+							"title": "满金额免运费",
+							"minimum": 1,
+							"maximum": 100
+						},
+						"maxDistance": {
+							"bsonType": "int",
+							"title": "最远服务里程km",
+							"minimum": 1,
+							"maximum": 1000
+						},
+						"minDistance": {
+							"bsonType": "int",
+							"title": "服务里程",
+							"minimum": 1,
+							"maximum": 100
+						},
+						"minPrice": {
+							"bsonType": "int",
+							"title": "起送金额",
+							"minimum": 1,
+							"maximum": 100
+						},
+						"money": {
+							"bsonType": "double",
+							"title": "不满起送金额运费",
+							"minimum": 1,
+							"maximum": 100
+						},
+						"perMoney": {
+							"bsonType": "double",
+							"title": "超里程费",
+							"minimum": 1,
+							"maximum": 100
+						},
+						"time": {
+							"bsonType": "int",
+							"title": "预计送达时间",
+							"minimum": 1,
+							"maximum": 100
+						},
+						"timeStep": {
+							"bsonType": "string",
+							"title": "时段步长",
+							"defaultValue": "1800",
+							"enum": [{
+									"text": "半小时",
+									"value": "1800"
+								},
+								{
+									"text": "1小时",
+									"value": "3600"
+								}
+							]
+						}
+					}
+				},
+				"deliveryTypes": {
+					"bsonType": "array",
+					"title": "配送方式",
+					"defaultValue": "deliveryHome",
+					"enum": [{
+							"text": "配送到家",
+							"value": "deliveryHome"
+						},
+						{
+							"text": "快递",
+							"value": "express"
+						},
+						{
+							"text": "到店/自提点自提",
+							"value": "selfRaising"
+						}
+					]
+				},
+				"isPrint": {
+					"bsonType": "bool",
+					"title": "是否开启打印",
+					"description": ""
+				},
+				"month_sell": {
+					"bsonType": "int",
+					"title": "月售",
+					"description": "近30天销售"
+				},
+				"focus": {
+					"bsonType": "int",
+					"title": "关注数量",
+					"description": ""
+				},
+				"name": {
+					"bsonType": "string",
+					"title": "店铺名称",
+					"description": ""
+				},
+				"online": {
+					"bsonType": "bool",
+					"title": "是否营业",
+					"description": ""
+				},
+				"phone": {
+					"bsonType": "string",
+					"title": "联系电话",
+					"description": ""
+				},
+				"score": {
+					"bsonType": "double",
+					"title": "评分",
+					"description": ""
+				},
+				"serviceTime": {
+					"bsonType": "string",
+					"title": "服务时间",
+					"description": ""
+				},
+				"src": {
+					"bsonType": "string",
+					"title": "店铺logo",
+					"description": ""
+				},
+				"uid": {
+					"bsonType": "string",
+					"title": "创建者",
+					"description": "",
+					"foreignKey": "uni-id-users._id",
+					"defaultValue": {
+						"$env": "uid"
+					}
+				},
+				"employees": {
+					"bsonType": "array",
+					"title": "员工列表",
+					"description": "",
+					"foreignKey": "uni-id-users._id"
+				},
+				"created": {
+					"bsonType": "timestamp",
+					"description": "上传时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				},
+				"modified": {
+					"bsonType": "timestamp",
+					"description": "修改时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				},
+				"state": {
+					"bsonType": "bool",
+					"title": "是否启用"
+				},
+				"dayStatisticsLog": {
+					"bsonType": "string",
+					"title": "统计日期"
+				},
+				"goods": {
+					"bsonType": "object",
+					"title": "商品统计"
+				},
+				"order": {
+					"bsonType": "object",
+					"title": "订单统计"
+				},
+				"printers": {
+					"bsonType": "array",
+					"title": "打印机"
+				},
+				"qr_code_payment": {
+					"bsonType": "string",
+					"title": "二维码收款配置"
+				},
+				"mall_payment": {
+					"bsonType": "string",
+					"title": "商城配置"
+				},
+				"payments": {
+					"bsonType": "string",
+					"title": "支付配置"
+				},
+				"payment_types": {
+					"bsonType": "array",
+					"title": "支付类型"
+				},
+				"business_license": {
+					"bsonType": "string",
+					"title": "营业执照",
+					"description": "",
+					"component": {
+						"name": "cloud-image",
+						"props": {
+							"name": "business_license",
+							"v-model": "formData.business_license"
+						}
+					}
+				},
+				"food_license": {
+					"bsonType": "string",
+					"title": "食品经营许可",
+					"description": "",
+					"component": {
+						"name": "cloud-image",
+						"props": {
+							"name": "food_license",
+							"v-model": "formData.food_license"
+						}
+					}
+				},
+				"legal_person_license": {
+					"bsonType": "string",
+					"title": "法人身份证正面",
+					"description": "",
+					"component": {
+						"name": "cloud-image",
+						"props": {
+							"name": "legal_person_license",
+							"v-model": "formData.legal_person_license"
+						}
+					}
+				},
+				"legal_person_license_back": {
+					"bsonType": "string",
+					"title": "法人身份证反面",
+					"description": "",
+					"component": {
+						"name": "cloud-image",
+						"props": {
+							"name": "legal_person_license_back",
+							"v-model": "formData.legal_person_license_back"
+						}
+					}
+				},
+				"page_id": {
+					"bsonType": "string",
+					"title": "页面id",
+					"description": ""
+				},
+				"business_code": {
+					"bsonType": "string",
+					"title": "微信支付申请id",
+					"description": ""
+				},
+				"apply_result": {
+					"bsonType": "string",
+					"title": "审核结果",
+					"description": ""
+				},
+				"apply_id": {
+					"bsonType": "string",
+					"title": "申请id",
+					"description": ""
+				},
+				"bank_card": {
+					"bsonType": "string",
+					"title": "收款银行卡",
+					"description": "",
+					"component": {
+						"name": "cloud-image",
+						"props": {
+							"name": "bank_card",
+							"v-model": "formData.bank_card"
+						}
+					}
+				},
+				"bank_no": {
+					"bsonType": "string",
+					"title": "银行卡号",
+					"description": ""
+				},
+				"bank_deposit": {
+					"bsonType": "string",
+					"title": "银行卡开户行",
+					"description": ""
+				},
+				"food_menu": {
+					"bsonType": "array",
+					"title": "菜单/食谱",
+					"description": "",
+					"component": {
+						"name": "cloud-image",
+						"props": {
+							"name": "food_menu",
+							"v-model": "formData.food_menu"
+						}
+					}
+				},
+				"store_face": {
+					"bsonType": "string",
+					"title": "门店门脸照片",
+					"description": "",
+					"component": {
+						"name": "cloud-image",
+						"props": {
+							"name": "store_face",
+							"v-model": "formData.store_face"
+						}
+					}
+				},
+				"store_imgs": {
+					"bsonType": "string",
+					"title": "门店内部照片",
+					"description": "",
+					"component": {
+						"name": "cloud-image",
+						"props": {
+							"name": "store_imgs",
+							"v-model": "formData.store_imgs"
+						}
+					}
+				},
+				"refund_address": {
+					"bsonType": "object",
+					"title": "退换货地址"
+				}
+			}
+		}
+	},
+	"tian-mall-shops-consumption": {
+		"data": [{
+			"consumption": 2000,
+			"shop_id": "60dd9001e22fbe0001777c960",
+			"user_id": "f6e08a6462d952ca0d3fddc2425a3a9d"
+		}],
+		"index": [{
+				"IndexName": "index_shop",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+						"Name": "shop_id",
+						"Direction": "1"
+					}],
+					"MgoIsUnique": false
+				}
+			},
+			{
+				"IndexName": "tian-mall-shops-consumption_openid_index_",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+						"Name": "_openid",
+						"Direction": "1"
+					}],
+					"MgoIsUnique": false
+				}
+			},
+			{
+				"IndexName": "index_u",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+						"Name": "user_id",
+						"Direction": "1"
+					}],
+					"MgoIsUnique": false
+				}
+			}
+		],
+		"schema": {}
+	},
+	"tian-page-components": {
+		"data": [{
+			"attributes": "{\"adpid\":{\"bsonType\":\"string\",\"defaultValue\":\"1111111111\",\"title\":\"广告位id\"},\"unitid\":{\"bsonType\":\"string\",\"defaultValue\":\"1111111111\",\"title\":\"微信广告位id\"},\"className\":{\"bsonType\":\"string\",\"defaultValue\":\"\",\"title\":\"样式\"}}",
+			"component_id": "ad",
+			"created": 1620111633017,
+			"is_page": false,
+			"modified": 1620111633017,
+			"posid": 5,
+			"previewfile": {
+				"extname": "png",
+				"fileID": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3fbab731-e993-47e6-882f-a74e444709a3/e22d5d65-30f0-42c1-8d3f-105952f15920.png",
+				"fileType": "image",
+				"image": {
+					"height": 561,
+					"location": "blob:http://localhost:8080/9c7ead3f-f6b5-40cc-9eba-e4a872c1fc5a",
+					"width": 750
+				},
+				"name": "059fda4b-77b3-4107-a0ea-97a22b3d37f7.png",
+				"path": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3fbab731-e993-47e6-882f-a74e444709a3/e22d5d65-30f0-42c1-8d3f-105952f15920.png",
+				"size": 633958,
+				"url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3fbab731-e993-47e6-882f-a74e444709a3/e22d5d65-30f0-42c1-8d3f-105952f15920.png"
+			},
+			"state": 1,
+			"thumb": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3fbab731-e993-47e6-882f-a74e444709a3/d3357a8a-fa6d-4e50-a166-9398b834bf2f.jpg",
+			"thumb_size": "750x561",
+			"title": "固定广告位"
+		}],
+		"index": [{
+				"IndexName": "tian-page-components_openid_index_",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+						"Name": "_openid",
+						"Direction": "1"
+					}],
+					"MgoIsUnique": false
+				}
+			},
+			{
+				"IndexName": "component_id",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+							"Name": "component_id",
+							"Direction": "1"
+						},
+						{
+							"Name": "state",
+							"Direction": "1"
+						}
+					],
+					"MgoIsUnique": true
+				}
+			}
+		],
+		"schema": {
+			"name": "自定义页面配置",
+			"bsonType": "object",
+			"required": [],
+			"permission": {
+				"read": true,
+				"create": false,
+				"update": false,
+				"delete": false
+			},
+			"properties": {
+				"_id": {
+					"description": "ID，系统自动生成"
+				},
+				"created": {
+					"bsonType": "timestamp",
+					"description": "上传时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				},
+				"modified": {
+					"bsonType": "timestamp",
+					"description": "修改时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				},
+				"component_id": {
+					"bsonType": "string",
+					"title": "组件ID",
+					"description": "唯一标识，不可修改，不允许重复"
+				},
+				"title": {
+					"bsonType": "string",
+					"title": "组件名称"
+				},
+				"previewfile": {
+					"bsonType": "file",
+					"fileMediaType": "image",
+					"title": "预览图"
+				},
+				"thumb": {
+					"bsonType": "string",
+					"description": "缩略图，用于在列表或搜索结果中预览显示，200*150",
+					"title": "缩略图地址",
+					"pattern": "^(http://|https://|/|./|@/)\\S",
+					"trim": "both"
+				},
+				"thumb_size": {
+					"bsonType": "string",
+					"title": "缩略图尺寸",
+					"trim": "both"
+				},
+				"attributes": {
+					"bsonType": "string",
+					"description": "可用属性，结构参考schema",
+					"title": "属性配置"
+				},
+				"data": {
+					"bsonType": "object",
+					"description": "可用数据，结构参考schema",
+					"title": "数据配置"
+				},
+				"state": {
+					"bsonType": "int",
+					"title": "是否显示",
+					"defaultValue": 0,
+					"enum": [{
+							"text": "否",
+							"value": 0
+						},
+						{
+							"text": "是",
+							"value": 1
+						}
+					]
+				},
+				"is_page": {
+					"bsonType": "bool",
+					"title": "是否页面",
+					"defaultValue": false
+				},
+				"shop_decoration": {
+					"bsonType": "bool",
+					"title": "店铺装修",
+					"defaultValue": false
+				},
+				"posid": {
+					"bsonType": "int",
+					"title": "排序，正序",
+					"defaultValue": 0
+				}
+			}
+		}
+	},
+	"tian-pages": {
+		"data": [{
+			"component": "tian-goods-list",
+			"configs": {
+				"condition": "is_new==true",
+				"image_size": "300x300",
+				"loadmore": false,
+				"order": "last_modify_date desc",
+				"page_size": 6,
+				"style": "style-gride"
+			},
+			"created": 1626348477400,
+			"items": [],
+			"modified": 1626348477400,
+			"operater": "60826dfef61a7400013855fe0",
+			"parent_id": "60f01bbc1ccee70001ccb96d0",
+			"posid": 3,
+			"state": 1
+		}],
+		"index": [{
+				"IndexName": "component",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+							"Name": "component",
+							"Direction": "1"
+						},
+						{
+							"Name": "state",
+							"Direction": "1"
+						}
+					],
+					"MgoIsUnique": false
+				}
+			},
+			{
+				"IndexName": "tian-pages_openid_index_",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+						"Name": "_openid",
+						"Direction": "1"
+					}],
+					"MgoIsUnique": false
+				}
+			},
+			{
+				"IndexName": "parent_id",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+						"Name": "parent_id",
+						"Direction": "1"
+					}],
+					"MgoIsUnique": false
+				}
+			}
+		],
+		"schema": {
+			"name": "自定义页面配置",
+			"bsonType": "object",
+			"required": [],
+			"permission": {
+				"read": true,
+				"create": "'shop-layout' in auth.permission",
+				"update": "'shop-layout' in auth.permission",
+				"delete": "'admin' in auth.role"
+			},
+			"properties": {
+				"_id": {
+					"description": "ID，系统自动生成"
+				},
+				"created": {
+					"bsonType": "timestamp",
+					"description": "上传时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				},
+				"modified": {
+					"bsonType": "timestamp",
+					"description": "修改时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				},
+				"begin_time": {
+					"bsonType": "timestamp",
+					"title": "页面生效时间"
+				},
+				"begin_hours": {
+					"bsonType": "int",
+					"title": "生效小时",
+					"description": "可选择0-23"
+				},
+				"operater": {
+					"bsonType": "string",
+					"title": "操作员",
+					"description": "操作员",
+					"foreignKey": "uni-id-users._id",
+					"defaultValue": {
+						"$env": "uid"
+					}
+				},
+				"component": {
+					"bsonType": "string",
+					"title": "组件类型",
+					"foreignKey": "tian-page-components.component_id",
+					"enum": {
+						"collection": "tian-page-components",
+						"field": "posid,title as text, component_id as value",
+						"where": "state==1",
+						"orderby": "posid asc"
+					}
+				},
+				"title": {
+					"bsonType": "string",
+					"title": "页面标题"
+				},
+				"city": {
+					"bsonType": "string",
+					"title": "城市编号",
+					"defaultValue": "",
+					"foreignKey": "opendb-city-china.code",
+					"description": "市/区县编号，区县必须在城市管理内是推荐，否则前端无法定位到"
+				},
+				"items": {
+					"bsonType": "array",
+					"title": "静态数据",
+					"description": "静态数据"
+				},
+				"configs": {
+					"bsonType": "object",
+					"title": "配置",
+					"description": "默认数据"
+				},
+				"state": {
+					"bsonType": "int",
+					"title": "是否显示",
+					"defaultValue": 0,
+					"enum": [{
+							"text": "否",
+							"value": 0
+						},
+						{
+							"text": "是",
+							"value": 1
+						}
+					]
+				},
+				"posid": {
+					"bsonType": "int",
+					"title": "排序，正序",
+					"defaultValue": 0
+				},
+				"parent_id": {
+					"bsonType": "string",
+					"title": "父id",
+					"defaultValue": "",
+					"description": "父id",
+					"parentKey": "_id"
+				},
+				"app_id": {
+					"bsonType": "array",
+					"title": "应用",
+					"enum": {
+						"collection": "opendb-app-list",
+						"field": "name as text, appid as value"
+					},
+					"foreignKey": "opendb-app-list.appid"
+				},
+				"platforms": {
+					"bsonType": "array",
+					"title": "平台",
+					"defaultValue": "",
+					"enum": {
+						"collection": "tian-platforms",
+						"field": "text,value"
+					},
+					"foreignKey": "tian-platforms.value"
+				}
+			}
+		}
+	},
+	"tian-pages-backup": {
+		"data": [],
+		"index": [{
+			"IndexName": "tian-pages-backup_openid_index_",
+			"MgoKeySchema": {
+				"MgoIndexKeys": [{
+					"Name": "_openid",
+					"Direction": "1"
+				}],
+				"MgoIsUnique": false
+			}
+		}],
+		"schema": {
+			"bsonType": "object",
+			"permission": {
+				"create": false,
+				"delete": false,
+				"read": false,
+				"update": false
+			},
+			"properties": {
+				"_id": {
+					"description": "ID，系统自动生成"
+				}
+			},
+			"required": []
+		}
+	},
+	"tian-payment-qrcodes": {
+		"data": [],
+		"index": [{
+			"IndexName": "tian-payment-qrcodes_openid_index_",
+			"MgoKeySchema": {
+				"MgoIndexKeys": [{
+					"Name": "_openid",
+					"Direction": "1"
+				}],
+				"MgoIsUnique": false
+			}
+		}],
+		"schema": {
+			"bsonType": "object",
+			"required": [],
+			"permission": {
+				"read": "doc.user_id == auth.uid",
+				"create": false,
+				"update": false,
+				"delete": false
+			},
+			"properties": {
+				"_id": {
+					"description": "ID，系统自动生成"
+				},
+				"total_fee": {
+					"bsonType": "int",
+					"title": "付款金额"
+				},
+				"rebate": {
+					"bsonType": "int",
+					"title": "返利金额"
+				},
+				"user_id": {
+					"bsonType": "string",
+					"title": "用户"
+				},
+				"shop_id": {
+					"bsonType": "string",
+					"title": "店铺"
+				},
+				"src": {
+					"bsonType": "string",
+					"title": "logo"
+				},
+				"title": {
+					"bsonType": "string",
+					"title": "标题"
+				},
+				"body": {
+					"bsonType": "string",
+					"title": "内容"
+				},
+				"outTradeNo": {
+					"bsonType": "string",
+					"title": "支付订单号"
+				},
+				"shop": {
+					"bsonType": "object",
+					"title": "商户信息"
+				},
+				"payment": {
+					"bsonType": "object",
+					"title": "商户支付配置"
+				},
+				"payInfo": {
+					"bsonType": "object",
+					"title": "支付信息"
+				},
+				"state": {
+					"bsonType": "int",
+					"title": "状态",
+					"description": "用户性别：0 未付款，1已付款",
+					"defaultValue": 0,
+					"enum": [{
+							"text": "未付款",
+							"value": 0
+						},
+						{
+							"text": "已付款",
+							"value": 1
+						}
+					]
+				},
+				"id": {
+					"bsonType": "int",
+					"title": "订单id"
+				},
+				"create_time": {
+					"bsonType": "timestamp",
+					"description": "创建时间戳"
+				},
+				"update_time": {
+					"bsonType": "timestamp",
+					"description": "更新时间"
+				}
+			}
+		}
+	},
+	"tian-payment-types": {
+		"data": [{
+			"applyment": "{}",
+			"attributes": "{\"alipayPublicKey\":{\"bsonType\":\"string\",\"defaultValue\":\"\",\"title\":\"支付宝公钥\"},\"appId\":{\"title\":\"应用id\",\"bsonType\":\"string\",\"defaultValue\":\"\"},\"mchId\":{\"bsonType\":\"string\",\"defaultValue\":\"\",\"title\":\"商户号\"},\"privateKey\":{\"bsonType\":\"string\",\"defaultValue\":\"\",\"title\":\"应用私钥\"}}",
+			"created": 1620111666341,
+			"modified": 1620111666341,
+			"payment_id": "alipay",
+			"posid": 2,
+			"state": 1,
+			"thumb": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3fbab731-e993-47e6-882f-a74e444709a3/c70e9810-eca8-44da-ac38-72bc27ba9f7b.png",
+			"thumb_size": "750x561",
+			"title": "支付宝支付"
+		}],
+		"index": [{
+				"IndexName": "tian-payment-types_openid_index_",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+						"Name": "_openid",
+						"Direction": "1"
+					}],
+					"MgoIsUnique": false
+				}
+			},
+			{
+				"IndexName": "payment_id",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+						"Name": "payment_id",
+						"Direction": "1"
+					}],
+					"MgoIsUnique": true
+				}
+			}
+		],
+		"schema": {
+			"name": "二维码支付方式配置",
+			"bsonType": "object",
+			"required": [],
+			"permission": {
+				"read": true,
+				"create": false,
+				"update": false,
+				"delete": false
+			},
+			"properties": {
+				"_id": {
+					"description": "ID，系统自动生成"
+				},
+				"created": {
+					"bsonType": "timestamp",
+					"description": "上传时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				},
+				"modified": {
+					"bsonType": "timestamp",
+					"description": "修改时间",
+					"defaultValue": {
+						"$env": "now"
+					}
+				},
+				"payment_id": {
+					"bsonType": "string",
+					"title": "支付ID",
+					"description": "唯一标识，不可修改，不允许重复,例如：wxpay/alipay"
+				},
+				"title": {
+					"bsonType": "string",
+					"title": "组件名称"
+				},
+				"thumb": {
+					"bsonType": "string",
+					"description": "缩略图，用于在列表或搜索结果中预览显示",
+					"title": "缩略图地址",
+					"pattern": "^(http://|https://|/|./|@/)\\S",
+					"trim": "both"
+				},
+				"thumb_size": {
+					"bsonType": "string",
+					"title": "缩略图尺寸",
+					"trim": "both"
+				},
+				"attributes": {
+					"bsonType": "string",
+					"description": "可用属性，结构参考schema",
+					"title": "属性配置"
+				},
+				"applyment": {
+					"bsonType": "string",
+					"title": "申请支付配置"
+				},
+				"state": {
+					"bsonType": "int",
+					"title": "是否显示",
+					"defaultValue": 0,
+					"enum": [{
+							"text": "否",
+							"value": 0
+						},
+						{
+							"text": "是",
+							"value": 1
+						}
+					]
+				},
+				"posid": {
+					"bsonType": "int",
+					"title": "排序，正序",
+					"defaultValue": 0
+				}
+			}
+		}
+	},
+	"tian-platforms": {
+		"data": [{
+			"sort": 0,
+			"text": "应用",
+			"value": "app"
+		}],
+		"index": [{
+			"IndexName": "tian-platforms_openid_index_",
+			"MgoKeySchema": {
+				"MgoIndexKeys": [{
+					"Name": "_openid",
+					"Direction": "1"
+				}],
+				"MgoIsUnique": false
+			}
+		}],
+		"schema": {
+			"bsonType": "object",
+			"required": [],
+			"permission": {
+				"read": false,
+				"create": false,
+				"update": false,
+				"delete": false
+			},
+			"properties": {
+				"_id": {
+					"description": "ID，系统自动生成"
+				},
+				"sort": {
+					"bsonType": "int",
+					"title": "排序，正序"
+				},
+				"text": {
+					"bsonType": "string",
+					"title": "显示名字"
+				},
+				"value": {
+					"bsonType": "string",
+					"title": "值"
+				}
+			}
+		}
+	},
+	"tian-redbag": {
+		"data": [{
+			"auto_show": true,
+			"avatar": {
+				"extname": "jpg",
+				"fileType": "image",
+				"image": {
+					"height": 159,
+					"width": 160
+				},
+				"name": "logo.jpg",
+				"path": "https://7463-tcb-mkgeroyc82b684-1d3xg5a2a923f-1304205492.tcb.qcloud.la/1654660441043_0.jpg",
+				"size": 6370,
+				"url": "https://7463-tcb-mkgeroyc82b684-1d3xg5a2a923f-1304205492.tcb.qcloud.la/1654660441043_0.jpg"
+			},
+			"background": {
+				"extname": "png",
+				"fileType": "image",
+				"image": {
+					"height": 492,
+					"width": 390
+				},
+				"name": "openrbag.png",
+				"path": "https://7463-tcb-mkgeroyc82b684-1d3xg5a2a923f-1304205492.tcb.qcloud.la/1654660438158_0.png",
+				"size": 6485,
+				"url": "https://7463-tcb-mkgeroyc82b684-1d3xg5a2a923f-1304205492.tcb.qcloud.la/1654660438158_0.png"
+			},
+			"blessing": "恭喜发财",
+			"create_date": 1658316396419,
+			"dcloud_appid": "__UNI__9E9D6A0",
+			"get_count": 4,
+			"get_limit": 1,
+			"moneys": "1.58,1.68,1.88",
+			"open": "開",
+			"payment": "wxpay",
+			"platforms": [
+				"mp-weixin"
+			],
+			"position": "leftDown",
+			"status": true,
+			"stock": 96,
+			"title": "送您一个红包",
+			"total_money": 682,
+			"type": "newpeople",
+			"update_date": 1658365532494
+		}],
+		"index": [{
+				"IndexName": "tian-redbag_openid_index_",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+						"Name": "_openid",
+						"Direction": "1"
+					}],
+					"MgoIsUnique": false
+				}
+			},
+			{
+				"IndexName": "type",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+							"Name": "type",
+							"Direction": "1"
+						},
+						{
+							"Name": "status",
+							"Direction": "1"
+						}
+					],
+					"MgoIsUnique": false
+				}
+			}
+		],
+		"schema": {
+			"description": "红包",
+			"bsonType": "object",
+			"required": [],
+			"permission": {
+				"read": false,
+				"create": false,
+				"update": false,
+				"delete": false
+			},
+			"properties": {
+				"_id": {
+					"description": "ID，系统自动生成"
+				},
+				"title": {
+					"bsonType": "string",
+					"title": "标题",
+					"defaultValue": "送您一个红包"
+				},
+				"blessing": {
+					"bsonType": "string",
+					"title": "祝福语",
+					"defaultValue": "恭喜发财"
+				},
+				"open": {
+					"bsonType": "string",
+					"title": "打开词",
+					"defaultValue": "開"
+				},
+				"type": {
+					"bsonType": "string",
+					"title": "类型",
+					"defaultValue": "newpeople",
+					"enum": [{
+							"text": "新人注册",
+							"value": "newpeople"
+						},
+						{
+							"text": "小区圈发帖",
+							"value": "addcircle"
+						}
+					]
+				},
+				"payment": {
+					"bsonType": "string",
+					"title": "支付方式",
+					"defaultValue": "balance",
+					"enum": [{
+							"text": "余额",
+							"value": "balance"
+						},
+						{
+							"text": "微信",
+							"value": "wxpay"
+						},
+						{
+							"text": "支付宝",
+							"value": "alipay"
+						}
+					]
+				},
+				"position": {
+					"bsonType": "string",
+					"title": "展示位置",
+					"defaultValue": "leftTop",
+					"enum": [{
+							"text": "左上",
+							"value": "leftTop"
+						},
+						{
+							"text": "左下",
+							"value": "leftDown"
+						},
+						{
+							"text": "右上",
+							"value": "rightTop"
+						},
+						{
+							"text": "右下",
+							"value": "rightDown"
+						}
+					]
+				},
+				"auto_show": {
+					"bsonType": "bool",
+					"defaultValue": true,
+					"title": "自动展示"
+				},
+				"status": {
+					"bsonType": "bool",
+					"defaultValue": true,
+					"title": "生效状态"
+				},
+				"background": {
+					"bsonType": "file",
+					"fileMediaType": "image",
+					"title": "红包背景"
+				},
+				"avatar": {
+					"bsonType": "file",
+					"fileMediaType": "image",
+					"title": "默认头像"
+				},
+				"dcloud_appid": {
+					"bsonType": "string",
+					"title": "应用id",
+					"foreignKey": "opendb-app-list.appid",
+					"description": "dcloud应用id",
+					"enum": {
+						"collection": "opendb-app-list",
+						"field": "appid as value, name as text"
+					}
+				},
+				"platforms": {
+					"bsonType": "array",
+					"title": "平台",
+					"defaultValue": "",
+					"enum": {
+						"collection": "tian-platforms",
+						"field": "text,value"
+					},
+					"foreignKey": "tian-platforms.value"
+				},
+				"stock": {
+					"bsonType": "int",
+					"defaultValue": 100,
+					"title": "限定数量"
+				},
+				"total_money": {
+					"bsonType": "int",
+					"defaultValue": 0,
+					"title": "领取总金额"
+				},
+				"get_count": {
+					"bsonType": "int",
+					"defaultValue": 0,
+					"title": "已领取"
+				},
+				"get_limit": {
+					"bsonType": "int",
+					"defaultValue": 1,
+					"title": "领取限制"
+				},
+				"moneys": {
+					"bsonType": "string",
+					"title": "领取金额",
+					"description": "英文逗号隔开"
+				},
+				"update_date": {
+					"bsonType": "timestamp",
+					"defaultValue": {
+						"$env": "now"
+					}
+				},
+				"create_date": {
+					"bsonType": "timestamp",
+					"defaultValue": {
+						"$env": "now"
+					}
+				}
+			}
+		}
+	},
+	"tian-redbag-users": {
+		"data": [],
+		"index": [{
+				"IndexName": "uid",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+						"Name": "user_id",
+						"Direction": "1"
+					}],
+					"MgoIsUnique": false
+				}
+			},
+			{
+				"IndexName": "redbag_id",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+						"Name": "redbag_id",
+						"Direction": "1"
+					}],
+					"MgoIsUnique": false
+				}
+			},
+			{
+				"IndexName": "tian-redbag-users_openid_index_",
+				"MgoKeySchema": {
+					"MgoIndexKeys": [{
+						"Name": "_openid",
+						"Direction": "1"
+					}],
+					"MgoIsUnique": false
+				}
+			}
+		],
+		"schema": {
+			"description": "用户领取红包记录",
+			"bsonType": "object",
+			"required": [],
+			"permission": {
+				"read": false,
+				"create": false,
+				"update": false,
+				"delete": false
+			},
+			"properties": {
+				"_id": {
+					"description": "ID，系统自动生成"
+				},
+				"dcloud_appid": {
+					"bsonType": "string",
+					"title": "应用id",
+					"foreignKey": "opendb-app-list.appid",
+					"description": "dcloud应用id",
+					"enum": {
+						"collection": "opendb-app-list",
+						"field": "appid as value, name as text"
+					}
+				},
+				"user_id": {
+					"bsonType": "string",
+					"title": "用户",
+					"description": "用户",
+					"foreignKey": "uni-id-users._id"
+				},
+				"user": {
+					"bsonType": "object"
+				},
+				"wxpay": {
+					"bsonType": "object"
+				},
+				"redbag_id": {
+					"bsonType": "string",
+					"title": "红包id",
+					"foreignKey": "tian-redbag._id"
+				},
+				"payment": {
+					"bsonType": "string",
+					"title": "支付方式",
+					"defaultValue": "balance",
+					"enum": [{
+							"text": "余额",
+							"value": "balance"
+						},
+						{
+							"text": "微信",
+							"value": "wxpay"
+						},
+						{
+							"text": "支付宝",
+							"value": "alipay"
+						}
+					]
+				},
+				"money": {
+					"bsonType": "int",
+					"title": "金额"
+				},
+				"type": {
+					"bsonType": "string",
+					"title": "类型",
+					"defaultValue": "newpeople",
+					"enum": [{
+							"text": "新人注册",
+							"value": "newpeople"
+						},
+						{
+							"text": "小区圈发帖",
+							"value": "addcircle"
+						}
+					]
+				},
+				"type_text": {
+					"bsonType": "string",
+					"title": "类型"
+				},
+				"update_date": {
+					"bsonType": "timestamp"
+				},
+				"create_date": {
+					"bsonType": "timestamp"
+				}
+			}
+		}
+	},
+	"tian-user-cashouts": {
+		"data": [{
+			"amount": 31,
+			"balance": 499969,
+			"create_time": 1658798565923,
+			"dcloud_appid": "__UNI__9E9D6A0",
+			"mode": "wxpay",
+			"outTradeNo": 10080,
+			"payInfo": {
+				"balance": 499969,
+				"code": 0,
+				"transaction_id": "0ab5303b62df41e5102ea0c67a2e88d4",
+				"userInfo": {
+					"_id": "0ab5303b62da1d380f98987916936d73",
+					"balance": 499969
+				}
+			},
+			"platform": "mp-weixin",
+			"status": 1,
+			"update_time": 1658798565923,
+			"user": {
+				"_id": "0ab5303b62da1d380f98987916936d73",
+				"balance": 500000,
+				"coupon": 0,
+				"score": 0,
+				"wx_openid": {
+					"mp-weixin": "oMpYy5fOgD2Xs4yWEgrwlgQvH2Jo",
+					"wxcfb12cd3b92a58ed": "oMpYy5fOgD2Xs4yWEgrwlgQvH2Jo"
+				},
+				"wx_unionid": "ofYLk50e05ZQP4nRf9GML-XVAzWo"
+			},
+			"user_id": "0ab5303b62da1d380f98987916936d73"
+		}],
+		"index": [{
+			"IndexName": "tian-user-cashouts_openid_index_",
+			"MgoKeySchema": {
+				"MgoIndexKeys": [{
+					"Name": "_openid",
+					"Direction": "1"
+				}],
+				"MgoIsUnique": false
+			}
+		}],
+		"schema": {
+			"name": "用户提现申请",
+			"bsonType": "object",
+			"required": [
+				"user_id",
+				"amount"
+			],
+			"permission": {
+				"read": true,
+				"create": false,
+				"update": false,
+				"delete": false
+			},
+			"properties": {
+				"_id": {
+					"description": "ID，系统自动生成"
+				},
+				"create_time": {
+					"bsonType": "timestamp",
+					"description": "创建时间"
+				},
+				"update_time": {
+					"bsonType": "timestamp",
+					"description": "更新时间"
+				},
+				"user_id": {
+					"bsonType": "string",
+					"title": "用户",
+					"description": "用户",
+					"foreignKey": "uni-id-users._id"
+				},
+				"user": {
+					"bsonType": "object",
+					"title": "用户",
+					"description": "用户"
+				},
+				"payment": {
+					"bsonType": "object",
+					"title": "付款信息",
+					"description": "付款信息"
+				},
+				"amount": {
+					"bsonType": "int",
+					"title": "金额",
+					"description": "提现金额，单位分"
+				},
+				"balance": {
+					"bsonType": "int",
+					"title": "余额",
+					"description": "提现余额，单位分"
+				},
+				"status": {
+					"bsonType": "int",
+					"title": "状态",
+					"defaultValue": 0,
+					"enum": [{
+							"text": "审核中",
+							"value": 0
+						},
+						{
+							"text": "通过",
+							"value": 1
+						},
+						{
+							"text": "拒绝",
+							"value": 2
+						},
+						{
+							"text": "通过不付款",
+							"value": 3
+						}
+					]
+				},
+				"mode": {
+					"bsonType": "string",
+					"title": "提现方式",
+					"defaultValue": "wxpay",
+					"enum": [{
+							"text": "微信",
+							"value": "wxpay"
+						},
+						{
+							"text": "支付宝",
+							"value": "alipay"
+						},
+						{
+							"text": "银行卡",
+							"value": "bank"
+						}
+					]
+				}
+			}
+		}
+	},
+	"uni-id-address": {
+		"data": [{
+			"address": "小岛上",
+			"area_code": "460322",
+			"city_code": "460300",
+			"create_date": 1658409729093,
+			"formatted_address": "海南省三沙市南沙群岛",
+			"is_default": false,
+			"mobile": "15986613315",
+			"name": "李格",
+			"province_code": "460000",
+			"update_date": 1658409729093,
+			"user_id": "f6e08a6462d952ca0d3fddc2425a3a9d"
+		}]
+	},
+	"uni-id-balances": {
+		"data": [{
+			"amount": 10000000,
+			"balance": 10000000,
+			"comment": "系统充值",
+			"create_date": 1658409752028,
+			"log": {
+				"operator": "f6e08a6462d950d40d3fa842639bac84"
+			},
+			"type": 1,
+			"user_id": "f6e08a6462d952ca0d3fddc2425a3a9d"
+		}]
+	},
+	"uni-id-base-order": {
+		"data": []
+	},
+	"uni-id-channel": {
+		"data": []
+	},
+	"uni-id-log": {
+		"data": [{
+			"create_date": 1658409158546,
+			"deviceId": "16567259971811731369",
+			"state": 0,
+			"type": "login"
+		}]
+	},
+	"uni-id-permissions": {
+		"data": [{
+			"create_date": 1625971555171,
+			"permission_id": "system_menu",
+			"permission_name": "菜单管理"
+		}]
+	},
+	"uni-id-roles": {
+		"data": [{
+			"comment": "",
+			"create_date": 1623984521114,
+			"permission": [],
+			"role_id": "admin",
+			"role_name": "admin"
+		}]
+	},
+	"uni-id-score-cashout": {
+		"data": []
+	},
+	"uni-id-score-day-statistics": {
+		"data": [{
+			"day": 1658419200000,
+			"value": 0
+		}]
+	},
+	"uni-id-score-transfer": {
+		"data": []
+	},
+	"uni-id-scores": {
+		"data": []
+	},
+	"uni-id-tag": {
+		"data": []
+	},
+	"uni-id-task": {
+		"data": []
+	},
+	"uni-id-task-log": {
+		"data": []
+	},
+	"backup-uni-id-users": {
+		"data": []
+	},
+	"uni-id-users": {
+		"data": [{
+			"dcloud_appid": [
+				"__UNI__3E2A8D8"
+			],
+			"last_login_date": 1659451802162,
+			"last_login_ip": "14.111.62.45",
+			"login_ip_limit": [],
+			"my_invite_code": "3LYVHC",
+			"password": "dad6aea9271464fcf0dbbbd9161a3c496eed1fa0",
+			"register_date": 1658409172920,
+			"register_env": {
+				"app_name": "云上商城后台管理",
+				"app_version": "1.0.0",
+				"app_version_code": "100",
+				"appid": "__UNI__3E2A8D8",
+				"channel": "",
+				"client_ip": "14.111.60.33",
+				"os_name": "windows",
+				"uni_platform": "web"
+			},
+			"role": [
+				"admin"
+			],
+			"token": [
+				"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJmNmUwOGE2NDYyZDk1MGQ0MGQzZmE4NDI2MzliYWM4NCIsInJvbGUiOlsiYWRtaW4iXSwicGVybWlzc2lvbiI6W10sImNsaWVudElkIjoiODcyMjUwZmViZGIzYmM4Zjc5ZjViZDE5YjlhOTZjNGEiLCJpYXQiOjE2NTg0MDkxNzIsImV4cCI6MTY2MTAwMTE3Mn0.yNGpwzpjIow_4B-rNp2Ne_Wkq9tHQ2J68hlG6DgeNFk",
+				"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJmNmUwOGE2NDYyZDk1MGQ0MGQzZmE4NDI2MzliYWM4NCIsInJvbGUiOlsiYWRtaW4iXSwicGVybWlzc2lvbiI6W10sImNsaWVudElkIjoiODcyMjUwZmViZGIzYmM4Zjc5ZjViZDE5YjlhOTZjNGEiLCJpYXQiOjE2NTg0MDkxOTUsImV4cCI6MTY2MTAwMTE5NX0.p5QFHyLqFDuv4An99JH5v-H3a_EMzKlP0c9Dz_TScKM",
+				"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJmNmUwOGE2NDYyZDk1MGQ0MGQzZmE4NDI2MzliYWM4NCIsInJvbGUiOlsiYWRtaW4iXSwicGVybWlzc2lvbiI6W10sImNsaWVudElkIjoiODcyMjUwZmViZGIzYmM4Zjc5ZjViZDE5YjlhOTZjNGEiLCJpYXQiOjE2NTg0NzI1MjAsImV4cCI6MTY2MTA2NDUyMH0.vgc00-z8Xb041tld933q-sUWZXZKEoYwOiiA78XF0Ck",
+				"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJmNmUwOGE2NDYyZDk1MGQ0MGQzZmE4NDI2MzliYWM4NCIsInJvbGUiOlsiYWRtaW4iXSwicGVybWlzc2lvbiI6W10sImNsaWVudElkIjoiODcyMjUwZmViZGIzYmM4Zjc5ZjViZDE5YjlhOTZjNGEiLCJpYXQiOjE2NTg1NTg4NzksImV4cCI6MTY2MTE1MDg3OX0.x8gKE2Nbru2RHQMFAH976rT6RQZjp08yiHBrttoG3x4",
+				"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJmNmUwOGE2NDYyZDk1MGQ0MGQzZmE4NDI2MzliYWM4NCIsInJvbGUiOlsiYWRtaW4iXSwicGVybWlzc2lvbiI6W10sImNsaWVudElkIjoiODcyMjUwZmViZGIzYmM4Zjc5ZjViZDE5YjlhOTZjNGEiLCJpYXQiOjE2NTg2NTU3MTIsImV4cCI6MTY2MTI0NzcxMn0.Ly_a4u_t_RYbp4H5rGtzZM1MrJ0Fi9NKjwuKH8Qlnso",
+				"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJmNmUwOGE2NDYyZDk1MGQ0MGQzZmE4NDI2MzliYWM4NCIsInJvbGUiOlsiYWRtaW4iXSwicGVybWlzc2lvbiI6W10sImNsaWVudElkIjoiMDZlY2Y2NTQxMzc1ZWQwNzM4YWJjNmVkMjRlMzViNzgiLCJpYXQiOjE2NTk0NTE4MDIsImV4cCI6MTY2MjA0MzgwMn0.0ZJ4je9z0RB-6G7FsSQS35oqLTLFKPl6uBXC2jB4l5A"
+			],
+			"username": "admin"
+		}]
+	},
+	"uni-stat-active-devices": {
+		"data": []
+	},
+	"uni-stat-active-users": {
+		"data": []
+	},
+	"uni-stat-app-channels": {
+		"data": []
+	},
+	"uni-stat-app-crash-logs": {
+		"data": []
+	},
+	"uni-stat-app-platforms": {
+		"data": [{
+			"code": "android",
+			"create_time": 163998979103,
+			"enable": true,
+			"name": "App-Android",
+			"order": 1
+		}]
+	},
+	"uni-stat-app-versions": {
+		"data": []
+	},
+	"uni-stat-error-logs": {
+		"data": []
+	},
+	"uni-stat-error-result": {
+		"data": []
+	},
+	"uni-stat-event-logs": {
+		"data": []
+	},
+	"uni-stat-event-result": {
+		"data": []
+	},
+	"uni-stat-events": {
+		"data": []
+	},
+	"uni-stat-loyalty-result": {
+		"data": []
+	},
+	"uni-stat-mp-scenes": {
+		"data": [{
+			"create_time": 1650801393000,
+			"platform": "android",
+			"scene_code": "",
+			"scene_name": "Android - 默认"
+		}]
+	},
+	"uni-stat-page-logs": {
+		"data": []
+	},
+	"uni-stat-page-result": {
+		"data": []
+	},
+	"uni-stat-pages": {
+		"data": []
+	},
+	"uni-stat-result": {
+		"data": []
+	},
+	"uni-stat-run-errors": {
+		"data": [{
+			"create_time": 1659301205238,
+			"error": {},
+			"mod": "stat",
+			"params": {
+				"dimension": "day",
+				"reset": true,
+				"type": "clean"
+			}
+		}]
+	},
+	"uni-stat-session-logs": {
+		"data": []
+	},
+	"uni-stat-share-logs": {
+		"data": []
+	},
+	"uni-stat-user-session-logs": {
+		"data": []
+	}
+}

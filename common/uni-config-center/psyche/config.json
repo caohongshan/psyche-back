@@ -1,0 +1,392 @@
+{
+	"domain": "",
+	"static-domain": "",
+	"notify-floder": "/http/mall",
+	"debug": true,
+	"timezone": 8,
+	"tokenSecret": "4e50313a45f5fbe0",
+	"app": {
+		"payment": {
+			"alipay": {
+				"uniPay": "initAlipay",
+				"name": "支付宝",
+				"payName": "支付宝支付",
+				"appId": "201916540934089",
+				"mchId": "15295677371",
+				"privateKey": "MIIEvgIBADANBgkqhki",
+				"alipayPublicKey": "MIIBIjANBgkqhkiG"
+			},
+			"wxpay": {
+				"uniPay": "initWeixin",
+				"name": "微信",
+				"payName": "微信支付",
+				"appId": "weixin appid",
+				"mchId": "15295677371",
+				"key": "f750595974cd90718a452242",
+				"pfx": ""
+			},
+			"balance": {
+				"uniPay": "initBalance",
+				"name": "余额",
+				"payName": "余额支付"
+			},
+			"delivery": {
+				"uniPay": "initDelivery",
+				"name": "货到付款",
+				"payName": "货到付款"
+			}
+		},
+		"oauth": {
+			"weixin": {
+				"appid": "wx59ded2343a9d2e42",
+				"appsecret": "fdf6d98cb931eebe9d28665e4d76acb2"
+			},
+			"univerify": {
+				"apiKey": "7f43c6e10ad5fa66376180376be23f2a",
+				"apiSecret": "c2837fdc9b4ca9c31d340b99d14a12da"
+			}
+		},
+		"mustUniverify": false,
+		"mustSetInviter": false,
+		"adConfig": {
+			"middle": 1111111112,
+			"tasks": {
+				"signin": [1507000689],
+				"video": [1507000611],
+				"interstitial": [1111111113]
+			},
+			"article": {
+				"list": [1111111111, 1111111111, 1111111111],
+				"detail": {
+					"top": 1111111111,
+					"bottom": 1111111111,
+					"signin": 1507000689,
+					"video": 1507000611
+				}
+			}
+		},
+		"share": {
+			"href": "http://127.0.0.1:8080//#/pages/app/share?u={my_invite_code}&channel={channel_code}&t=1",
+			"title": "天天商城",
+			"summary": "我正在使用天天商城赚钱，赶紧跟我一起来赚钱吧！",
+			"imageUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3fbab731-e993-47e6-882f-a74e444709a3/4ac2ca54-c0e0-4e5f-a7fb-af289f6470aa.png"
+		}
+	},
+	"mp-weixin": {
+		"payment": {
+			"wxpay": {
+				"uniPay": "initWeixin",
+				"name": "微信",
+				"payName": "微信支付",
+				"accountName": "重庆柔然科技有限公司",
+				"appId": "wxcfb12cd3b92a58ed",
+				"mchId": "1604863346",
+				"subAppId": false,
+				"subMchId": false,
+				"key": "xQHSfantYNGFZ6pwDLuesv4qGRmWNBnZ",
+				"pfx": "1604863346_20210304_cert.p12"
+			},
+			"balance": {
+				"uniPay": "initBalance",
+				"name": "余额",
+				"payName": "余额支付"
+			},
+			"delivery": {
+				"uniPay": "initDelivery",
+				"name": "货到付款",
+				"payName": "货到付款"
+			}
+		},
+		"mustSetInviter": false,
+		"oauth": {
+			"bindMobile": true
+		},
+		"share": {
+			"path": "/pages/app/share?u={my_invite_code}&channel={channel_code}&t=1",
+			"href": "http://tian.cqsort.com/#/pages/app/share?u={my_invite_code}&channel={channel_code}&t=1",
+			"title": "天天商城",
+			"imageUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3fbab731-e993-47e6-882f-a74e444709a3/4ac2ca54-c0e0-4e5f-a7fb-af289f6470aa.png"
+		}
+	},
+	"mp-alipay": {
+		"payment": {
+			"alipay": {
+				"uniPay": "initAlipay",
+				"name": "支付宝",
+				"payName": "支付宝支付",
+				"appId": "alipay appid",
+				"mchId": "15295677371",
+				"privateKey": "alipay privateKey",
+				"alipayPublicKey": "alipay publicKey"
+			},
+			"balance": {
+				"uniPay": "initBalance",
+				"name": "余额",
+				"payName": "余额支付"
+			}
+		},
+		"mustSetInviter": false
+	},
+	"web": {
+		"payment": {
+			"alipay": {
+				"uniPay": "initAlipay",
+				"name": "支付宝",
+				"payName": "支付宝支付",
+				"appId": "201916540934089",
+				"mchId": "15295677371",
+				"privateKey": "MIIEvgIBADANBgkqhki",
+				"alipayPublicKey": "MIIBIjANBgkqhkiG"
+			},
+			"wxpay": {
+				"uniPay": "initWeixin",
+				"name": "微信",
+				"payName": "微信支付",
+				"accountName": "重庆柔然科技有限公司",
+				"appId": "wxcfb12cd3b92a58ed",
+				"mchId": "1604863346",
+				"sub_appid": false,
+				"sub_mch_id": false,
+				"key": "xQHSfantYNGFZ6pwDLuesv4qGRmWNBnZ",
+				"pfx": "1604863346_20210304_cert.p12"
+			},
+			"wxpay_partner_v3": {
+				"admin": true,
+				"name": "微信",
+				"payName": "微信支付",
+				"appid": "wxcfb12cd3b92a58ed",
+				"mchid": "1604863346",
+				"privateKey": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9ItkWpYJet2IaKm4dUU=\n-----END PRIVATE KEY-----",
+				"privateKeySerial": "7B46D892644E189FB459C38A5084C0D6B74F5D20",
+				"platformCertificate": "-----BEGIN CERTIFICATE-----\nMIID3DCCAsSgAwIBAgIUS1gZ9gR+7Jhu3yzB5a8cH4omCJ+ATx+XkHTsTfwPLPYD573/DP9Osx8U=\n-----END CERTIFICATE-----",
+				"platformCertificateSerial": "4B5819F6047EEC986EDF2CCF67D0E1D7F5123A42",
+				"key": "xQHSfantYNGFZ6pwDLuesv4qGRmWNBnZ"
+			},
+			"balance": {
+				"uniPay": "initBalance",
+				"name": "余额",
+				"payName": "余额支付"
+			},
+			"delivery": {
+				"uniPay": "initDelivery",
+				"name": "货到付款",
+				"payName": "货到付款"
+			}
+		},
+		"mustSetInviter": false,
+		"oauth": {
+			"weixin": {
+				"appid": "wx9acc378d446084f2",
+				"appsecret": "250cbb9c677554fe7d721e2c53f604e8"
+			}
+		},
+		"adConfig": {
+			"middle": 1111111112,
+			"tasks": {
+				"signin": [1507000689],
+				"video": [1507000611]
+			},
+			"article": {
+				"list": [1111111111, 1111111111, 1111111111],
+				"detail": {
+					"top": 1111111111,
+					"bottom": 1111111111,
+					"signin": 1507000689,
+					"video": 1507000611
+				}
+			}
+		},
+		"share": {
+			"href": "http://tian.cqsort.com/#/pages/app/share?u={my_invite_code}&channel={channel_code}&t=1",
+			"title": "天天商城",
+			"imageUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3fbab731-e993-47e6-882f-a74e444709a3/4ac2ca54-c0e0-4e5f-a7fb-af289f6470aa.png"
+		}
+	},
+	"transfers": {
+		"api": false,
+		"payment": {
+			"weixin": {
+				"appId": "201916540934089",
+				"mchId": "1600239051",
+				"key": "xQHSfantYNGFZ6pwDLuesv4qGRmWNBnZ",
+				"pfx": "1604863346_20210304_cert.p12"
+			}
+		}
+	},
+	"service": {
+		"sms": {
+			"mustNewUser": false,
+			"templateId": {
+				"login": "10190"
+			}
+		}
+	},
+	"push": {
+		"default": {
+			"appId": "N5wQHWUKnv8POOTCnGtFU8",
+			"appkey": "t318VmJI2p84991gl61VY4",
+			"appSecret": "wF9SqqDvk3ANRMoMtrbPm1",
+			"mastersecret": "udzQP1wLwWAQEeozJgYZ15",
+			"packageName": "com.gengyun"
+		}
+	},
+	"delivery": {
+		"cantingbao": {
+			"key": "84Qrm9NwSCTVanyldcak9LJpX",
+			"secret": "XYEUJBWYBEBSVGV81832",
+			"product": false
+		}
+	},
+	"qqmap": {
+		"key": "ZWYBZ-HOSWD-S2X4S-HHPBQ-YKY7Z-5NFK5",
+		"mode": "bicycling"
+	},
+	"user": {
+		"inviteCode": ["LSQ62J"],
+		"autoSetId": true,
+		"score": {
+			"reward_level": 1,
+			"reward_rates": [0.25]
+		},
+		"testMobiles": [
+			"15986613315",
+			"16612345678",
+			"16612345679",
+			"16612345680",
+			"16612345681",
+			"16612345682",
+			"16612345683"
+		],
+		"inviter_call": [
+			"我的推荐人", "上级服务商"
+		],
+		"score_charge_rate": 0.03,
+		"signMoreDays": 7,
+		"luckDraw": [8, 18, 28, 38, 48, 58, 68, 88],
+		"rebate_last_time": 604800,
+		"cashoutType": [{
+				"text": "微信",
+				"value": "wxpay"
+			},
+			{
+				"text": "支付宝",
+				"value": "alipay"
+			},
+			{
+				"text": "银行卡",
+				"value": "bank"
+			}
+		],
+		"cashoutLimit": [0.3, 5000]
+	},
+	"email": {
+		"transport": {
+			"host": "smtp.163.com",
+			"port": 465,
+			"secure": true,
+			"auth": {
+				"user": "xxxxxxx@163.com",
+				"pass": "OKGJ123456RBPTE"
+			}
+		},
+		"send": {
+			"from": "管理员 <xxxxxxx@163.com>",
+			"to": "343169893@qq.com"
+		}
+	},
+	"apiToken": "",
+	"express": {
+		"api": "kuai100",
+		"key": "NpwhbOgw8996",
+		"customer": "27076142710A847DD9D03B5FE27019C3",
+		"secret": "8b264a40de8543dfae0e1f34c11b646b",
+		"userid": "33ef8693e61641b0b3e41eb7389a986d",
+		"partnerId": "",
+		"partnerKey": "",
+		"tempid": "",
+		"siid": "",
+		"expires": 21600
+	},
+	"customer": {
+		"multipleAccount": 0,
+		"videoAdWaittingTime": 3,
+		"scoreName": "积分",
+		"maxShowAllGroupBuying": 10,
+		"telephone": "15986613315",
+		"serviceTime": "早上9点到晚上6点",
+		"shopQrCode": "http://tian.cqsort.com/#/pages/index/index?secondpage=/pages/app/pay&id={shop._id}",
+		"shopAdminUrl": "http://tian.cqsort.com/admin/",
+		"downloadUrl": "http://tian.cqsort.com"
+	},
+	"navMenu": [],
+	"mall": {
+		"order": {
+			"must_use_score": true,
+			"exchange_points_for_cash": false,
+			"max_use_score_rate": 0.2,
+			"score_to_money_rate": 0,
+			"last_pay_minutes": 30,
+			"rebate_get_day": 7,
+			"auto_finish_day": 7,
+			"rebate_score_rate": [0.01, 0.01],
+			"rebate_money_rate": [0.01, 0.01],
+			"after_services": [{
+				"type": "refund",
+				"title": "退款（无需退货）",
+				"return_goods": false,
+				"notice": "没收到货或与卖家协商同意不用退货只退款"
+			}, {
+				"type": "refund&return",
+				"title": "退款退货",
+				"return_goods": true,
+				"notice": "已收到货，需要退还收到的货物"
+			}, {
+				"type": "repair",
+				"title": "维修",
+				"return_goods": true,
+				"notice": "商品存在质量问题，联系卖家协商维修"
+			}],
+			"after_service_reason": ["拍错/效果不好/不喜欢", "商品成分描述不符", "尺寸/规格不符", "颜色/款式/包装与产品描述不符", "收到商品少件/破损/变形等"]
+		}
+	},
+	"mp-h5": {
+		"api": "https://tcb-mkgeroyc82b684-1d3xg5a2a923f.service.tcloudbase.com/http/mall/work/weixin/get_access_token",
+		"appid": "wx9047bee09aabe6d2",
+		"appsecret": "fc5f69989e4beade48a659c88a2fcd6e"
+	},
+	"wx-message": {
+		"configs": {
+			"openid": [],
+			"appid": "wxd6fb8d107a0bfcc5",
+			"appsecret": "d5c0091802e0913f2cd065c33062395f"
+		},
+		"channel_apply_result": {
+			"title": "渠道申请结果",
+			"template_id": "9iUNZXn3LheFeD9W7dYexMBqV3HcKAk5vH-EV8IDU-Y"
+		},
+		"channel_apply": {
+			"title": "新渠道申请",
+			"template_id": "9iUNZXn3LheFeD9W7dYexMBqV3HcKAk5vH-EV8IDU-Y"
+		},
+		"new_order": {
+			"title": "新订单提醒",
+			"template_id": "9iUNZXn3LheFeD9W7dYexMBqV3HcKAk5vH-EV8IDU-Y"
+		}
+	},
+	"sms-message": {
+		"configs": {
+			"title": "发送给客户",
+			"appid": "__UNI__A100EDE",
+			"smsKey": "343d50c784e50313a45f5fbe062f78a3",
+			"smsSecret": "1f8d5cf9f06265b32a92c8483e52038e"
+		},
+		"start_shipping": {
+			"title": "订单发货",
+			"template_id": "13249"
+		},
+		"tuangou_code": {
+			"title": "发送团购码给客户",
+			"template_id": "13377"
+		}
+	}
+}

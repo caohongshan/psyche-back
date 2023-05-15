@@ -1,0 +1,6 @@
+{
+	"jwtSecret":"jwtSecretDemo",
+	"admin_uid":false,
+	"conversation_grade":0,
+	"ChatGPT_uid": "642fa0eae766bb29755dd9de"
+}

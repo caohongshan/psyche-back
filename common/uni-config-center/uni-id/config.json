@@ -1,0 +1,68 @@
+{
+	"passwordSecret": "58d0605d96a11d2b62430",
+	"tokenSecret": "4e50313a45f5fbe0",
+	"preferedAppPlatform": "mp-weixin",
+	"tokenExpiresIn": 2592000,
+	"tokenExpiresThreshold": 86400,
+	"passwordErrorLimit": 6,
+	"bindTokenToDevice": false,
+	"passwordErrorRetryTime": 3600,
+	"autoSetInviteCode": false,
+	"forceInviteCode": false,
+	"app": {
+		"tokenExpiresIn": 2592000,
+		"oauth": {
+			"weixin": {
+				"appid": "wxfb4bbd58f0d91848",
+				"appsecret": "ac3153633067d4af55f927890d2830a2"
+			},
+			"apple": {
+				"bundleId": "your APP bundleId"
+			}
+		}
+	},
+	"oauth": {
+		"weixin": {
+			"appid": "wxfb4bbd58f0d91848",
+			"appsecret": "ac3153633067d4af55f927890d2830a2"
+		}
+	},
+	"mp-weixin": {
+		"tokenExpiresIn": 1728000,
+		"oauth": {
+			"weixin": {
+				"appid": "wx59ded2343a9d2e42",
+				"appsecret": "fdf6d98cb931eebe9d28665e4d76acb2"
+			}
+		}
+	},
+	"mp-alipay": {
+		"oauth": {
+			"alipay": {
+				"appid": "alipay appid",
+				"privateKey": "alipay privateKey"
+			}
+		}
+	},
+	"web": {
+		"oauth": {
+			"weixin": {
+				"appid": "wxfb4bbd58f0d91848",
+				"appsecret": "ac3153633067d4af55f927890d2830a2"
+			}
+		}
+	},
+	"service": {
+		"sms": {
+			"name": "柔然科技",
+			"codeExpiresIn": 180,
+			"smsKey": "343d50c784e50313a45f5fbe062f78a3",
+			"smsSecret": "1f8d5cf9f06265b32a92c8483e52038e"
+		},
+		"univerify": {
+			"appid": "__UNI__9E9D6A0",
+			"apiKey": "7f43c6e10ad5fa66376180376be23f2a",
+			"apiSecret": "c2837fdc9b4ca9c31d340b99d14a12da"
+		}
+	}
+}
