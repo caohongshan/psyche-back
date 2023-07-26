@@ -1,9 +1,26 @@
-# ChatGPT + 电商 + 分销裂变 + SASS AI 智能聊天项目
-# 商务合作及其它疑问请联系：
+# ChatGPT + 电商 + 分销裂变 + SASS AI 智能聊天项目，
+## 商务合作及其它疑问请联系：
     微信:itbang6
     QQ: 3161838135
-    
-# 项目简介
+
+## 项目地址
+- AI掌心助手小程序后端代码地址：https://github.com/caohongshan/psyche-back
+- AI掌心助手小程序前端代码地址：https://github.com/caohongshan/assistant-client-front-end
+- AI掌心助手PC后端代码地址：https://github.com/caohongshan/assisant-admin-back-end
+- AI掌心助手PC前端代码地址：https://github.com/caohongshan/assistant-client-front-end
+
+
+技术交流群：474806352
+
+## 页面展示
+<img src="./static/后台1.jpg"></img>
+
+<img src="./static/小程序1.jpg"></img>
+
+<img src="./static/小程序2.jpg"></img>
+
+
+## 项目简介
     
 
 我有一个想法，因为最ChatGPT人工智能、AI聊天机器人是比较火爆的，所以说我自己也想做一款。
