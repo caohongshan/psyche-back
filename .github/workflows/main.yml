@@ -12,6 +12,10 @@ jobs:
     steps:
       - name: Install aws-cli
         run: |
-          python --version
-          pip install awscli --upgrade
-          aws --version
+          pwd
+          cd ../
+          ls
+          cd ../
+          ls
+          cd ..
+          ls
