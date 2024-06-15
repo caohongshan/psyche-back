@@ -1,0 +1,17 @@
+name: Publish Docker image to ECR and deploy to EKS
+
+on:
+  push:
+    branches: [ "dev" ]
+  pull_request:
+    branches: [ "dev" ]
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+    steps:
+      - name: Install aws-cli
+        run: |
+          python --version
+          pip install awscli --upgrade
+          aws --version
